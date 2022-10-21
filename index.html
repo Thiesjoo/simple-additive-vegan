@@ -1,4 +1,9 @@
+<!DOCTYPE html>
 <html>
+<!-- 
+  This website was coded by Thies.
+  Some code was taken from eenbeetjes.us, a VIA challange website
+ -->
 
 <head>
   <title>Is this E-Number vegan?</title>
@@ -20,18 +25,38 @@
       }
     }
 
-    get_vegan_enumbers()
+    (async () => {
+      const vegan_enumbers = await get_vegan_enumbers()
+      $(function () {
+        $("#input").autocomplete({
+          source: vegan_enumbers.map(x => x.enumber),
+          minLength: 2,
+          delay: 0,
+          // Automatically hide when a full match is found
+          response: function (event, ui) {
+            if (event.target.value.toLowerCase() == ui.content?.[0]?.label.toLowerCase()) {
+              $(this).autocomplete("close");
+              checkEnumber()
+            }
+          },
+          select: function (event, ui) {
+            checkEnumber(ui.item.value)
+          }
+        });
+      });
+    })();
 
-    async function get_hint() {
-      const to_check = $("#flag").val();
+    async function checkEnumber(override = null) {
+      const to_check = override ?? $("#input").val();
+      console.log("Getting enumber:", to_check)
       $("#hint").html(`We are checking: ${to_check}`);
       $("#hint").css("color", "black");
 
 
       const vegan_enumbers = await get_vegan_enumbers()
-      const found = vegan_enumbers.find(x => x.enumber === to_check)
+      const found = vegan_enumbers.find(x => x.enumber.toLowerCase() === to_check.toLowerCase())
       if (found) {
-        $("#hint").html(`Yes, ${to_check} is ${found.vegan.toLowerCase()}! ${found.optional ? `(Name: ${found.optional})` : ""}`);
+        $("#hint").html(`Yes, ${found.enumber} is ${found.vegan.toLowerCase()}! ${found.optional ? `(Name: ${found.optional})` : ""}`);
         $("#hint").css("color", found.vegan === "Vegan" ? "green" : "orange");
       } else {
         $("#hint").html(`No, ${to_check} is not vegan!`);
@@ -40,14 +65,12 @@
 
     }
 
-    function boe() {
-      $("#hint").css("color", "green");
-      $("#hint").css("color", "red");
-    }
   </script>
 
   <style type="text/css">
-    @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Code&display=swap');
+    body {
+      overflow-x: hidden;
+    }
 
     #bg {
       position: fixed;
@@ -85,16 +108,6 @@
       text-align: center;
     }
 
-    #prikbord {
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      width: 100%;
-      text-align: center;
-      visibility: hidden;
-    }
-
     input {
       text-align: center;
       font-size: 75pt;
@@ -118,6 +131,16 @@
       font-family: 'Source Sans Code', monospace;
       padding: 20pt;
     }
+
+    footer {
+      text-align: center;
+      color: black;
+      position: absolute;
+      bottom: 0;
+      padding: 0.3em;
+      width: 100vw;
+      font-family: sans-serif;
+    }
   </style>
 </head>
 
@@ -125,15 +148,13 @@
   <div id="bg">
     <div id="cont">
       <a href="https://sarakidd.com/vegan-e-numbers-list/">Vegan E-Numbers</a>
-      <form id="f" onsubmit="event.preventDefault(); get_hint()">
-        <input type="text" id="flag" name="flag" autofocus placeholder="E100" />
+      <form id="f" onsubmit="event.preventDefault(); checkEnumber()">
+        <input type="text" id="input" autofocus placeholder="E100" />
       </form>
       <p id="hint"></p>
     </div>
-    <div id="prikbord">
-
-    </div>
   </div>
+  <footer>By Thies - 2022</footer>
 </body>
 
 </html>
