@@ -85,7 +85,7 @@
         $("#hint").html(`Yes, <a href='https://en.wikipedia.org/wiki/${found.enumber}'>${found.enumber}</a> is ${found.vegan.toLowerCase()}! ${found.group}`);
         $("#hint").css("color", found.vegan === "Vegan" ? "green" : "orange");
       } else {
-        $("#hint").html(found_all ? `No, ${to_check} is not vegan!` : `No, ${to_check} is not an E-number!`);
+        $("#hint").html(found_all ? `No, ${found_all.enumber} is not vegan!` : `No, ${to_check} is not an E-number!`);
         $("#hint").css("color", "red");
       }
 
