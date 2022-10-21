@@ -33,14 +33,24 @@ export default async (request: VercelRequest, response: VercelResponse) => {
 		}
 	});
 
+	const all_numbers = (await axios("https://api.voedingscentrum.nl/api/enumbertool/enumbers/")).data;
+
+	const all_parsed = all_numbers.map((enumber: any) => {
+		const [E, number, name] = enumber.FullName.split(" ", 3);
+		return {
+			name,
+			enumber: E + number,
+		};
+	});
+
 	response.setHeader(
 		"Cache-Control",
 		"max-age=0, s-maxage=604800" // 7 days in seconds
 	);
 
-
 	response.status(200).json({
 		ok: true,
-		enumbers: matches,
+		vegan: matches,
+		all: all_parsed,
 	});
 };

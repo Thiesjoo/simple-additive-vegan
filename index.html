@@ -14,27 +14,48 @@
 
   <script>
     let vegan_enumbers_temp = []
+    let all_enumbers_temp = []
+    let ongoing = null
     async function get_vegan_enumbers() {
       if (vegan_enumbers_temp.length == 0) {
-        const req = await fetch("api/enumbers");
-        const html_content = await req.json()
-        vegan_enumbers_temp = html_content.enumbers
+        if (ongoing) {
+          await ongoing
+        } else {
+          const req = await fetch("api/enumbers");
+          const html_content = await req.json()
+          vegan_enumbers_temp = html_content.vegan
+          all_enumbers_temp = html_content.all
+        }
         return vegan_enumbers_temp
       } else {
         return vegan_enumbers_temp
       }
     }
 
+    async function get_all_enumbers() {
+      if (all_enumbers_temp.length == 0) {
+        await get_vegan_enumbers()
+        return all_enumbers_temp
+      } else {
+        return all_enumbers_temp
+      }
+    }
+
     (async () => {
-      const vegan_enumbers = await get_vegan_enumbers()
+      const all_enumbers = await get_all_enumbers()
       $(function () {
         $("#input").autocomplete({
-          source: vegan_enumbers.map(x => x.enumber),
+          source: all_enumbers.map(x => {
+            return {
+              label: `${x.enumber} - ${x.name}`,
+              value: x.enumber
+            }
+          }),
           minLength: 2,
           delay: 0,
           // Automatically hide when a full match is found
           response: function (event, ui) {
-            if (event.target.value.toLowerCase() == ui.content?.[0]?.label.toLowerCase()) {
+            if (event.target.value.toLowerCase() == ui.content?.[0]?.value.toLowerCase()) {
               $(this).autocomplete("close");
               checkEnumber()
             }
@@ -47,16 +68,20 @@
     })();
 
     async function checkEnumber(override = null) {
-      const to_check = override ?? $("#input").val();
+      const to_check = (override ?? $("#input").val()).toLowerCase()
       console.log("Getting enumber:", to_check)
       $("#hint").html(`We are checking: ${to_check}`);
       $("#hint").css("color", "black");
 
 
       const vegan_enumbers = await get_vegan_enumbers()
-      const found = vegan_enumbers.find(x => x.enumber.toLowerCase() === to_check.toLowerCase())
+      const all_enumbers = await get_all_enumbers()
+      const found = vegan_enumbers.find(x => x.enumber.toLowerCase() === to_check)
+      const found_all = all_enumbers.find(x => x.enumber.toLowerCase() === to_check)
+      $("#desc").html(`${found_all.enumber} - ${found_all.name} -  <a href='https://en.wikipedia.org/wiki/${found_all.enumber}'>Wikipedia</a>`)
+
       if (found) {
-        $("#hint").html(`Yes, ${found.enumber} is ${found.vegan.toLowerCase()}! ${found.optional ? `(Name: ${found.optional})` : ""}`);
+        $("#hint").html(`Yes, <a href='https://en.wikipedia.org/wiki/${found.enumber}'>${found.enumber}</a> is ${found.vegan.toLowerCase()}! ${found.group}`);
         $("#hint").css("color", found.vegan === "Vegan" ? "green" : "orange");
       } else {
         $("#hint").html(`No, ${to_check} is not vegan!`);
@@ -86,7 +111,6 @@
       font-size: 100pt;
       margin-top: 0px;
       font-family: 'Source Sans Code', monospace;
-
     }
 
     a {
@@ -126,10 +150,16 @@
 
     #hint {
       margin-top: 20pt;
+    }
+
+    .small-text {
       font-size: 25pt;
-      margin-top: 0px;
       font-family: 'Source Sans Code', monospace;
       padding: 20pt;
+    }
+
+    .small-text a {
+      font-size: 25pt;
     }
 
     footer {
@@ -151,7 +181,8 @@
       <form id="f" onsubmit="event.preventDefault(); checkEnumber()">
         <input type="text" id="input" autofocus placeholder="E100" />
       </form>
-      <p id="hint"></p>
+      <p id="hint" class="small-text"></p>
+      <p id="desc" class="small-text"></p>
     </div>
   </div>
   <footer>By Thies - 2022</footer>
