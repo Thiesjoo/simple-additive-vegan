@@ -72,22 +72,35 @@
       console.log("Getting enumber:", to_check)
       $("#hint").html(`We are checking: ${to_check}`);
       $("#hint").css("color", "black");
+      $("#desc").html("")
+      $("#desc2").html("")
 
 
       const vegan_enumbers = await get_vegan_enumbers()
       const all_enumbers = await get_all_enumbers()
       const found = vegan_enumbers.find(x => x.enumber.toLowerCase() === to_check)
       const found_all = all_enumbers.find(x => x.enumber.toLowerCase() === to_check)
-      $("#desc").html(`${found_all.enumber} - ${found_all.name} -  <a href='https://en.wikipedia.org/wiki/${found_all.enumber}'>Wikipedia</a>`)
 
       if (found) {
         $("#hint").html(`Yes, <a href='https://en.wikipedia.org/wiki/${found.enumber}'>${found.enumber}</a> is ${found.vegan.toLowerCase()}! ${found.group}`);
         $("#hint").css("color", found.vegan === "Vegan" ? "green" : "orange");
       } else {
-        $("#hint").html(`No, ${to_check} is not vegan!`);
+        $("#hint").html(found_all ? `No, ${to_check} is not vegan!` : `No, ${to_check} is not an E-number!`);
         $("#hint").css("color", "red");
       }
 
+      if (found_all) {
+        $("#desc").html(`${found_all.enumber} - ${found_all.name} -  <a href='https://en.wikipedia.org/wiki/${found_all.enumber}'>Wikipedia</a>`)
+
+        fetch("https://api.voedingscentrum.nl/api/enumbertool/enumbers/" + found_all.id)
+          .then(response => response.json())
+          .then(data => {
+            $("#desc2").html(data.Text)
+          })
+      } else {
+
+        $("#desc").html(`Deze info is niet beschikbaar op voedingscentrum`)
+      }
     }
 
   </script>
@@ -155,7 +168,7 @@
     .small-text {
       font-size: 25pt;
       font-family: 'Source Sans Code', monospace;
-      padding: 20pt;
+      padding: 5pt;
     }
 
     .small-text a {
@@ -177,12 +190,15 @@
 <body>
   <div id="bg">
     <div id="cont">
-      <a href="https://sarakidd.com/vegan-e-numbers-list/">Vegan E-Numbers</a>
+      <a href="https://sarakidd.com/vegan-e-numbers-list/" target="_blank">Vegan E-Numbers</a> <br />
+      <a href="https://www.voedingscentrum.nl/encyclopedie/e-nummers.aspx" target="_blank"
+        style="font-size: 15pt">Voedingscentrum</a>
       <form id="f" onsubmit="event.preventDefault(); checkEnumber()">
         <input type="text" id="input" autofocus placeholder="E100" />
       </form>
       <p id="hint" class="small-text"></p>
       <p id="desc" class="small-text"></p>
+      <p id="desc2" class="small-text"></p>
     </div>
   </div>
   <footer>By Thies - 2022</footer>
