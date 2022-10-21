@@ -1,19 +1,22 @@
 <html>
 
 <head>
-  <title>Hint</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <title>Is this E-Number vegan?</title>
+
+  <link href="https://code.jquery.com/ui/1.10.4/themes/ui-darkness/jquery-ui.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
 
   <script>
-    let vegan_enumbers = []
+    let vegan_enumbers_temp = []
     async function get_vegan_enumbers() {
-      if (vegan_enumbers.length == 0) {
+      if (vegan_enumbers_temp.length == 0) {
         const req = await fetch("api/enumbers");
         const html_content = await req.json()
-
-        console.log(html_content)
+        vegan_enumbers_temp = html_content.enumbers
+        return vegan_enumbers_temp
       } else {
-        return vegan_enumbers
+        return vegan_enumbers_temp
       }
     }
 
@@ -25,7 +28,16 @@
       $("#hint").css("color", "black");
 
 
-      alert("haha boe")
+      const vegan_enumbers = await get_vegan_enumbers()
+      const found = vegan_enumbers.find(x => x.enumber === to_check)
+      if (found) {
+        $("#hint").html(`Yes, ${to_check} is ${found.vegan.toLowerCase()}! ${found.optional ? `(Name: ${found.optional})` : ""}`);
+        $("#hint").css("color", found.vegan === "Vegan" ? "green" : "orange");
+      } else {
+        $("#hint").html(`No, ${to_check} is not vegan!`);
+        $("#hint").css("color", "red");
+      }
+
     }
 
     function boe() {
