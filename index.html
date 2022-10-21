@@ -1,0 +1,127 @@
+<html>
+
+<head>
+  <title>Hint</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+  <script>
+    let vegan_enumbers = []
+    async function get_vegan_enumbers() {
+      if (vegan_enumbers.length == 0) {
+        const req = await fetch("api/enumbers");
+        const html_content = await req.json()
+
+        console.log(html_content)
+      } else {
+        return vegan_enumbers
+      }
+    }
+
+    get_vegan_enumbers()
+
+    async function get_hint() {
+      const to_check = $("#flag").val();
+      $("#hint").html(`We are checking: ${to_check}`);
+      $("#hint").css("color", "black");
+
+
+      alert("haha boe")
+    }
+
+    function boe() {
+      $("#hint").css("color", "green");
+      $("#hint").css("color", "red");
+    }
+  </script>
+
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Code&display=swap');
+
+    #bg {
+      position: fixed;
+      top: 0%;
+      left: 0%;
+      width: 100%;
+      height: 100%;
+    }
+
+
+    p {
+      text-align: center;
+      font-size: 100pt;
+      margin-top: 0px;
+      font-family: 'Source Sans Code', monospace;
+
+    }
+
+    a {
+      text-align: center;
+      font-size: 30pt;
+      margin-top: 0px;
+      font-family: 'Source Sans Code', monospace;
+      color: black;
+      text-decoration: none;
+      margin-bottom: 20pt;
+    }
+
+    #cont {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 100%;
+      text-align: center;
+    }
+
+    #prikbord {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 100%;
+      text-align: center;
+      visibility: hidden;
+    }
+
+    input {
+      text-align: center;
+      font-size: 75pt;
+      margin-top: 0px;
+      font-family: 'Source Sans Code', monospace;
+      border-top: 0pt;
+      border-left: 0pt;
+      border-right: 0pt;
+      border-bottom: 2px solid #6d6d6d;
+      width: 100%;
+    }
+
+    input:focus {
+      outline: none;
+    }
+
+    #hint {
+      margin-top: 20pt;
+      font-size: 25pt;
+      margin-top: 0px;
+      font-family: 'Source Sans Code', monospace;
+      padding: 20pt;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="bg">
+    <div id="cont">
+      <a href="https://sarakidd.com/vegan-e-numbers-list/">Vegan E-Numbers</a>
+      <form id="f" onsubmit="event.preventDefault(); get_hint()">
+        <input type="text" id="flag" name="flag" autofocus placeholder="E100" />
+      </form>
+      <p id="hint"></p>
+    </div>
+    <div id="prikbord">
+
+    </div>
+  </div>
+</body>
+
+</html>
