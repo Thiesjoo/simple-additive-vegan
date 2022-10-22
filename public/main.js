@@ -30,17 +30,20 @@ async function getAllEnumbers() {
 
 async function getEnumberDescription(enumber) {
   if (description_temp['data']) {
-    return description_temp['data'].find(x => x.enumber.toLowerCase() === enumber.toLowerCase())
+    return description_temp['data'].find(x => x.enumber.toLowerCase() === enumber.toLowerCase())?.data
   } else {
     const req = await fetch("api/descriptions");
     const content = await req.json()
     description_temp = content
-    return description_temp['data'].find(x => x.enumber.toLowerCase() === enumber.toLowerCase())
+    return description_temp['data'].find(x => x.enumber.toLowerCase() === enumber.toLowerCase())?.data
   }
 }
 
 (async () => {
+  // Preload the request
+  getEnumberDescription("E100")
   const all_enumbers = await getAllEnumbers()
+
   $(function () {
     $("#input").autocomplete({
       source: all_enumbers.map(x => {
@@ -88,13 +91,12 @@ async function checkEnumber(override = null) {
   }
 
   if (found_all) {
-    $("#desc").html(`${found_all.enumber} - ${found_all.name} -  <a href='https://en.wikipedia.org/wiki/${found_all.enumber}'>Wikipedia</a>`)
+    $("#desc").html(`${found_all.enumber} - ${found_all.name} -  <a href='https://en.wikipedia.org/wiki/${found_all.enumber}' style='text-decoration: underline;'>Wikipedia</a>`)
 
-    fetch("https://api.voedingscentrum.nl/api/enumbertool/enumbers/" + found_all.id)
-      .then(response => response.json())
-      .then(data => {
-        $("#desc2").html(data.Text)
-      })
+    const desc = await getEnumberDescription(found_all.enumber)
+    if (desc) {
+      $("#desc2").html(`<p class='small-text'>${desc.text}</p> ${desc.applications.length > 0 ? `<h3>Waar kan het in zitten?</h3> <p class='small-text'>${desc.applications.join(" - ")}</p>` : ""}`)
+    }
   } else {
 
     $("#desc").html(`Deze info is niet beschikbaar op voedingscentrum`)
