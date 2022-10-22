@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://vegan.mabbel.nl/sitemap.xml
