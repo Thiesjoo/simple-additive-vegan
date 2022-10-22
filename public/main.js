@@ -1,7 +1,9 @@
 let vegan_enumbers_temp = []
 let all_enumbers_temp = []
+let description_temp = {}
 let ongoing = null
-async function get_vegan_enumbers() {
+
+async function getVeganEnumbers() {
   if (vegan_enumbers_temp.length == 0) {
     if (ongoing) {
       await ongoing
@@ -17,17 +19,28 @@ async function get_vegan_enumbers() {
   }
 }
 
-async function get_all_enumbers() {
+async function getAllEnumbers() {
   if (all_enumbers_temp.length == 0) {
-    await get_vegan_enumbers()
+    await getVeganEnumbers()
     return all_enumbers_temp
   } else {
     return all_enumbers_temp
   }
 }
 
+async function getEnumberDescription(enumber) {
+  if (description_temp['data']) {
+    return description_temp['data'].find(x => x.enumber.toLowerCase() === enumber.toLowerCase())
+  } else {
+    const req = await fetch("api/descriptions");
+    const content = await req.json()
+    description_temp = content
+    return description_temp['data'].find(x => x.enumber.toLowerCase() === enumber.toLowerCase())
+  }
+}
+
 (async () => {
-  const all_enumbers = await get_all_enumbers()
+  const all_enumbers = await getAllEnumbers()
   $(function () {
     $("#input").autocomplete({
       source: all_enumbers.map(x => {
@@ -61,8 +74,8 @@ async function checkEnumber(override = null) {
   $("#desc2").html("")
 
 
-  const vegan_enumbers = await get_vegan_enumbers()
-  const all_enumbers = await get_all_enumbers()
+  const vegan_enumbers = await getVeganEnumbers()
+  const all_enumbers = await getAllEnumbers()
   const found = vegan_enumbers.find(x => x.enumber.toLowerCase() === to_check)
   const found_all = all_enumbers.find(x => x.enumber.toLowerCase() === to_check)
 

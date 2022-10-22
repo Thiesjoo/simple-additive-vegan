@@ -1,4 +1,4 @@
-const cacheName = "cache0"; // Change value to force update
+const cacheName = "cache2"; // Change value to force update
 
 self.addEventListener("install", event => {
   // Kick out the old service worker
@@ -20,7 +20,11 @@ self.addEventListener("install", event => {
         "mstile-150x150.png", // Favicon, Windows 8 / IE11
         "safari-pinned-tab.svg", // Favicon, Safari pinned tab
         "main.css", // Main CSS file
-        "api/enumbers"
+        "api/enumbers",
+        "api/descriptions",
+        "https://code.jquery.com/ui/1.10.4/themes/ui-darkness/jquery-ui.css",
+        "https://code.jquery.com/jquery-1.10.2.js",
+        "https://code.jquery.com/ui/1.10.4/jquery-ui.js"
       ]);
     })
   );
@@ -48,16 +52,15 @@ self.addEventListener("activate", event => {
 self.addEventListener("fetch", event => {
   event.respondWith(
     caches.open(cacheName).then(cache => {
-      return cache.match(event.request).then(response => {
-        return response || fetch(event.request).then(networkResponse => {
+      return fetch(event.request).then((fetchedResponse) => {
+        cache.put(event.request.url, fetchedResponse.clone());
+        // }
 
-          // Check if the response has a no cache header
-          if (!networkResponse.headers.get("Cache-Control") === "no-cache") {
-            cache.put(event.request, networkResponse.clone());
-          }
-          return networkResponse;
-        });
-      })
+        return fetchedResponse;
+      }).catch(() => {
+        // If the network is unavailable, get it from the cache
+        return cache.match(event.request.url);
+      });
     })
   );
 });

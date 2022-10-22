@@ -3,7 +3,7 @@ import type { VercelRequest, VercelResponse } from "@vercel/node";
 import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 
-const LOCAL_CACHE_FILE = join(__dirname, "descriptions.json");
+const LOCAL_CACHE_FILE = join(__dirname, "descriptions_cache.json");
 
 export default async (request: VercelRequest, response: VercelResponse) => {
 	response.setHeader(
@@ -13,7 +13,7 @@ export default async (request: VercelRequest, response: VercelResponse) => {
 
 	if (existsSync(LOCAL_CACHE_FILE)) {
 		console.log("Using local cache");
-		const fileData = readFileSync(join(__dirname, "descriptions.json"), "utf8");
+		const fileData = readFileSync(LOCAL_CACHE_FILE, "utf8");
 		return response.json({ ...JSON.parse(fileData), cache: true });
 	}
 
