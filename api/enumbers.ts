@@ -36,12 +36,9 @@ export default async (request: VercelRequest, response: VercelResponse) => {
 	const all_numbers = (await axios("https://api.voedingscentrum.nl/api/enumbertool/enumbers/")).data;
 
 	const all_parsed = all_numbers.map((enumber: any) => {
-		// Split fullname on first 2 spaces, and return rest as description
-
+		// Split fullname on first 2 spaces, and return rest as name
 		const [E, number, ...name] = enumber.FullName.split(" ");
-		if (number === "122") {
-			console.log(enumber, E, number, name);
-		}
+
 		return {
 			name: name.join(" "),
 			enumber: E + number,
