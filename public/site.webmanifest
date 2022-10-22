@@ -1,0 +1,21 @@
+{
+	"name": "VeggiEnumber",
+	"short_name": "VeggiEnumber",
+	"description": "Een simpele app om te checken of een enummer vegan is",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#299200",
+	"background_color": "#299200",
+	"display": "standalone"
+}

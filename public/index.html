@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<!-- 
+  This website was coded by Thies.
+  Some code was taken from eenbeetjes.us, a VIA challange website
+ -->
+
+<head>
+  <title>Is dit Enummer vegan?</title>
+
+  <!-- TODO: Meta tags -->
+  <!-- TODO: Manifest for PWA -->
+  <!-- TODO: Service worker that caches everything, for offline usage -->
+  <!-- TODO: Get all enumber descriptions on API -->
+
+
+  <!-- TODO: Attribution:
+  <a href="https://www.flaticon.com/free-icons/nature" title="nature icons">Nature icons created by Freepik - Flaticon</a>
+ -->
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#299200">
+  <meta name="msapplication-TileColor" content="#299200">
+  <meta name="theme-color" content="#299200">
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker && navigator.serviceWorker.register("./sw.js");
+      });
+    }
+  </script>
+
+  <link href="https://code.jquery.com/ui/1.10.4/themes/ui-darkness/jquery-ui.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+  <script defer src="main.js"></script>
+
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+  <div id="bg">
+    <div id="cont">
+      <a href="https://sarakidd.com/vegan-e-numbers-list/" target="_blank">Vegan E-Numbers</a> <br />
+      <a href="https://www.voedingscentrum.nl/encyclopedie/e-nummers.aspx" target="_blank"
+        style="font-size: 15pt">Voedingscentrum</a>
+      <form id="f" onsubmit="event.preventDefault(); checkEnumber()">
+        <input type="text" id="input" autofocus placeholder="E100" />
+      </form>
+      <p id="hint" class="small-text"></p>
+      <p id="desc" class="small-text"></p>
+      <p id="desc2" class="small-text"></p>
+    </div>
+  </div>
+  <footer>By Thies - 2022</footer>
+</body>
+
+</html>
