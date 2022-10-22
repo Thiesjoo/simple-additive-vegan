@@ -7,11 +7,12 @@ body {
 
 #cont {
 	width: 100%;
-	min-height: calc(100vh - 2em - 2em);
+	/* 100vh - size of footer - padding of footer - margin of this element */
+	min-height: calc(100vh - 3em - 0.6em - 2em);
 	text-align: center;
 
 	margin-top: 2em;
-	margin-bottom: -2em;
+	margin-bottom: -3em;
 }
 
 p {
@@ -64,10 +65,8 @@ input:focus {
 footer {
 	text-align: center;
 	color: black;
-	/* position: absolute; */
-	/* bottom: 0; */
 	padding: 0.3em;
 	width: 100vw;
-	height: 2em;
+	height: 3em;
 	font-family: sans-serif;
 }
