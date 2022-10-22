@@ -1,0 +1,4453 @@
+{
+	"ok": true,
+	"amount": 325,
+	"data": [
+		{
+			"enumber": "E100",
+			"id": "eaa25e02-af0f-4102-8a35-bcec5f390f59",
+			"data": {
+				"text": "Geel tot oranje kleurstof. Komt van nature voor in de plant Geelwortel (Curcuma longa  en Curcuma domestica) en wordt daar ook uit gewonnen.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Worst",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E101",
+			"id": "3a75f7da-14ad-4d8d-b810-fa0d1aef6d7b",
+			"data": {
+				"text": "Gele kleurstof. Synoniem: vitamine B2.  Komt van nature voor in melk, eieren, bladgroenten en lever. Het wordt gemaakt met behulp van bacteriën of gisten. Bij de productie van de stof kunnen genetisch gemodificeerde organismen zijn gebruikt.",
+				"applications": [
+					"Gerookte vis",
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Rood fruit in blik of glas",
+					"Snoep",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E102",
+			"id": "3a21c6f9-4e82-48a8-be6f-ce784d6a533c",
+			"data": {
+				"text": "Gele kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Op etiketten van producten waar deze kleurstof in zit, staat: “Kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden”. Deze waarschuwing staat er uit voorzorg op.",
+				"applications": [
+					"Erwten in blik",
+					"Frisdranken",
+					"Gerookte vis",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks"
+				]
+			}
+		},
+		{
+			"enumber": "E104",
+			"id": "c3c38c34-4c64-453f-a62e-ff5152596da7",
+			"data": {
+				"text": "Groengele kleurstof. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Op etiketten van producten waar deze kleurstof in zit, staat: “Kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden”. Deze waarschuwing staat er uit voorzorg op.",
+				"applications": [
+					"Alcoholische dranken",
+					"Frisdranken",
+					"Kauwgom",
+					"Kruiden",
+					"Mosterd",
+					"Sauzen",
+					"Snoep",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E110",
+			"id": "ede7ddb1-700c-4db5-97e4-1a8b510e94ca",
+			"data": {
+				"text": "Gele kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Op etiketten van producten waar deze kleurstof in zit, staat: “Kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden”. Deze waarschuwing staat er uit voorzorg op.",
+				"applications": [
+					"Alcoholische dranken",
+					"Frisdranken",
+					"Kauwgom",
+					"Mosterd",
+					"Piccalilly",
+					"Room",
+					"Snoep",
+					"Vleesvervangers"
+				]
+			}
+		},
+		{
+			"enumber": "E120",
+			"id": "600c10a2-5dba-48bb-8aa9-2a85e9d1d08e",
+			"data": {
+				"text": "Rode kleurstof. Komt van nature voor in de schildluis Dactylopius coccus, die leeft op verschillende soorten schijfcactussen. Omdat de kleurstof wordt gewonnen uit schildluizen is het niet geschikt voor veganisten, vegetariërs en sommige religies. Soms kan een overgevoeligheidsreactie optreden na het eten van deze stof.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Ontbijtgranen met vruchtensmaak",
+					"Sauzen",
+					"Snacks",
+					"Worst"
+				]
+			}
+		},
+		{
+			"enumber": "E122",
+			"id": "486d2976-a2b9-4d51-8ff4-4accdcf01ae1",
+			"data": {
+				"text": "Rode kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Op etiketten van producten waar deze kleurstof in zit, staat: “Kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden”. Deze waarschuwing staat er uit voorzorg op.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Rood fruit in blik of glas",
+					"Sauzen",
+					"Snacks",
+					"Voorgekookte schaaldieren"
+				]
+			}
+		},
+		{
+			"enumber": "E123",
+			"id": "30d82b7e-7ed9-4477-a298-d6e1d2515f42",
+			"data": {
+				"text": "Rode kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": ["Alcoholische dranken"]
+			}
+		},
+		{
+			"enumber": "E124",
+			"id": "12b678e6-a91b-46bd-af57-69ac201426ee",
+			"data": {
+				"text": "Rode kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Op etiketten van producten waar deze kleurstof in zit, staat: “Kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden”. Deze waarschuwing staat er uit voorzorg op.",
+				"applications": [
+					"Alcoholische dranken",
+					"Frisdranken",
+					"Kauwgom",
+					"Mosterd",
+					"Vleesvervangers",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E127",
+			"id": "cbcb3843-d496-4266-a658-5a01c7dc2a02",
+			"data": {
+				"text": "Rode kleurstof. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": ["Cocktailkersen"]
+			}
+		},
+		{
+			"enumber": "E129",
+			"id": "165ba9bc-e866-4f38-a156-8f27d07b9e79",
+			"data": {
+				"text": "Rode kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Op etiketten van producten waar deze kleurstof in zit, staat: “Kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden”. Deze waarschuwing staat er uit voorzorg op.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Rood fruit in blik of glas",
+					"Sauzen",
+					"Snacks",
+					"Vlees"
+				]
+			}
+		},
+		{
+			"enumber": "E131",
+			"id": "25396027-d7a3-4d95-89a7-10dc5d0153e8",
+			"data": {
+				"text": "Blauwe kleurstof. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Rood fruit in blik of glas",
+					"Sauzen",
+					"Snacks"
+				]
+			}
+		},
+		{
+			"enumber": "E132",
+			"id": "1d414887-4403-45d9-96cc-48a386a0faa0",
+			"data": {
+				"text": "Blauwe kleurstof. Komt van nature voor in de heester Indigofera tinctoria, maar wordt voor commercieel gebruik kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E133",
+			"id": "d8f03bf2-582a-4eb3-976b-f106fa8e95d2",
+			"data": {
+				"text": "Blauwe kleurstof. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Keurmerken op vlees",
+					"Koek en gebak",
+					"Rood fruit in blik of glas",
+					"Sauzen",
+					"Snacks"
+				]
+			}
+		},
+		{
+			"enumber": "E140",
+			"id": "76a0eea1-58d4-4bb7-9b16-14d71f3ccad1",
+			"data": {
+				"text": "Groene kleurstof. Komt van nature voor in alle planten en groene algen. Wordt gewonnen uit brandnetels, gras en alfalfa.",
+				"applications": [
+					"Jam",
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Snoep",
+					"Soepen",
+					"Voorgekookte schaaldieren",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E141",
+			"id": "25352895-2fc3-4c30-911a-d3385492354c",
+			"data": {
+				"text": "Groene kleurstof. Wordt gemaakt uit de groene kleurstof E 140, die van nature voorkomt in planten en groene algen.",
+				"applications": [
+					"Frisdranken",
+					"Gerookte vis",
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Snoep",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E142",
+			"id": "62a3c971-576f-4d67-874e-bd6173720b8d",
+			"data": {
+				"text": "Groene kleurstof. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Erwten in blik",
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Voorgekookte schaaldieren"
+				]
+			}
+		},
+		{
+			"enumber": "E150a",
+			"id": "9e653b95-67ad-4440-ac17-fa7e5e560ea8",
+			"data": {
+				"text": "<zoekterm> valt, samen met E 150 b, E 150 c en E 150 d, onder de bruine kleurstoffen. Deze worden gemaakt door het verhitten van suiker in combinatie met andere stoffen.",
+				"applications": ["Bier", "Kruiden", "Noedels", "Ontbijtgranen", "Snoep", "Soepen", "Worst", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E150b",
+			"id": "b1442507-8f3c-4a67-a428-d9e9075565c3",
+			"data": {
+				"text": "<zoekterm> valt, samen met E 150 a, E 150 c en E 150 d, onder de bruine kleurstoffen. Deze worden gemaakt door het verhitten van suiker in combinatie met andere stoffen. ",
+				"applications": ["Bier", "Kruiden", "Noedels", "Ontbijtgranen", "Snoep", "Soepen", "Worst", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E150c",
+			"id": "9c9f12f1-64fd-427a-a421-cad51d2789af",
+			"data": {
+				"text": "<zoekterm> valt, samen met E 150 a, E 150 b en E 150 d, onder de bruine kleurstoffen. Deze worden gemaakt door het verhitten van suiker in combinatie met andere stoffen. Soms kunnen darmklachten optreden na een hoge inname van <zoekterm>. Bij de productie van <zoekterm> kunnen genetisch gemodificeerde organismen zijn gebruikt.",
+				"applications": ["Bier", "Kruiden", "Noedels", "Ontbijtgranen", "Snoep", "Soepen", "Worst", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E150d",
+			"id": "724546fd-0cc2-4e40-b17f-e78fe5297f95",
+			"data": {
+				"text": "<zoekterm> valt, samen met E 150 a, E 150 b en E 150 c, onder de bruine kleurstoffen. Deze worden gemaakt door het verhitten van suiker in combinatie met andere stoffen. Soms kunnen darmklachten optreden na een hoge inname van <zoekterm>. Bij de productie van <zoekterm> kunnen genetisch gemodificeerde organismen zijn gebruikt.",
+				"applications": ["Bier", "Kruiden", "Noedels", "Ontbijtgranen", "Snoep", "Soepen", "Worst", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E151",
+			"id": "5b23ea10-011e-4d03-b826-f465b0381301",
+			"data": {
+				"text": "Zwarte kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Voedingssupplementen",
+					"Voorgekookte schaaldieren"
+				]
+			}
+		},
+		{
+			"enumber": "E153",
+			"id": "dd01b217-e6b7-43cc-a268-a861b3ca804e",
+			"data": {
+				"text": "Zwarte kleurstof. Wordt gemaakt door het verbranden van plantaardig materiaal. De stof wordt ook gebruikt als geneesmiddel, bijvoorbeeld bij vergiftigingen en soms bij diarree. Het kan ook gebruikt worden als laagje om een bepaalde biologische geitenkaas (Morbier-kaas).",
+				"applications": [
+					"Gerookte vis",
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Snacks",
+					"Snoep",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E155",
+			"id": "27a49c0a-244f-4af4-9ece-e1922001c8e5",
+			"data": {
+				"text": "Bruine kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Keurmerken op vlees",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Voorgekookte schaaldieren"
+				]
+			}
+		},
+		{
+			"enumber": "E160a",
+			"id": "115b75ae-baa2-42f7-8711-e8ab216fb2f5",
+			"data": {
+				"text": "Geel tot oranje kleurstof. Komt van nature voor in wortels en wordt daar ook uit gewonnen. Het kan ook kunstmatig gemaakt worden. Carotenen staan ook bekend als provitamine A. Het lichaam zet dit om in vitamine A. Soms wordt voor deze kleurstof een draagstof gebruikt die gelatine bevat. Daardoor kan deze kleurstof in sommige gevallen niet geschikt zijn voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Boter", "Kruiden", "Noedels", "Ontbijtgranen", "Snoep", "Soepen", "Worst", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E160b",
+			"id": "dfd64432-7643-4f02-9c18-9c028cebc4eb",
+			"data": {
+				"text": "Rood tot roodbruine kleurstof. Komt van nature voor in de zaden van de annattoboom (Bixa orellana) en wordt daar ook uit gewonnen. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Het kan ook gebruikt worden in verschillende soorten biologische kazen. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen zijn gebruikt.",
+				"applications": ["Borrelnoten", "Gerookte vis", "IJs", "Likeur", "Ontbijtgranen", "Vetten", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E160c",
+			"id": "52630246-c781-4941-9329-ecd56c6797cc",
+			"data": {
+				"text": "Oranje tot rode kleurstof. Komt van nature voor in paprika’s en wordt daar ook uit gewonnen.",
+				"applications": [
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Rood fruit in blik of glas",
+					"Snoep",
+					"Soepen",
+					"Worst",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E160d",
+			"id": "6abf27d1-4ed0-4c92-bc35-17214f709ab3",
+			"data": {
+				"text": "Rode kleurstof. Komt van nature voor in veel rode en gele planten en vruchten. Kan worden gewonnen uit tomaten en kan ook kunstmatig gemaakt worden, onder andere met behulp van een schimmel. Soms wordt voor deze kleurstof gelatine gebruikt. Daardoor kan deze kleurstof in sommige gevallen niet geschikt zijn voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Alcoholische dranken",
+					"Frisdranken",
+					"IJs",
+					"Jam",
+					"Sauzen",
+					"Snacks",
+					"Vleesvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E160e",
+			"id": "4dec95e5-ce93-4cfb-ba32-4d5dad373568",
+			"data": {
+				"text": "Oranje kleurstof. Komt veel in de natuur voor in verschillende groenten, citrus vruchten en planten. Wordt kunstmatig gemaakt. Bij het gebruik van de kleurstof kan gelatine gebruikt worden. Daardoor kan deze kleurstof in sommige gevallen niet geschikt zijn voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E161b",
+			"id": "0659adef-d76e-4a6b-9d28-bb9de9876aca",
+			"data": {
+				"text": "Gele kleurstof. Komt van nature voor in veel planten. Wordt gewonnen uit gras, wier, brandnetels of plantensoorten zoals de Tagetes.",
+				"applications": ["Frisdranken", "IJs", "Jam", "Kauwgom", "Koek en gebak", "Sauzen", "Snacks", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E161g",
+			"id": "a63ba6f3-cee9-4ed8-be18-d5a22db325a4",
+			"data": {
+				"text": "Oranje kleurstof. Komt van nature voor in bijvoorbeeld sommige eetbare paddestoelen, algen, vissen en schaaldieren. Wordt kunstmatig gemaakt. Bij het gebruik van de kleurstof kan gelatine gebruikt worden. Daardoor kan deze kleurstof in sommige gevallen niet geschikt zijn voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Geneesmiddelen"]
+			}
+		},
+		{
+			"enumber": "E162",
+			"id": "568a645c-7508-4d9b-8ab5-ca4512148a00",
+			"data": {
+				"text": "Rode kleurstof. Komt van nature voor in rode bieten en wordt daar ook uit gewonnen.",
+				"applications": [
+					"Groenten in blik of glas",
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Ontbijtgranen met vruchtensmaak",
+					"Snoep",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E163",
+			"id": "88d1fd8b-5b30-476e-bc88-82bcb7858d57",
+			"data": {
+				"text": "Rood tot paarse kleurstof. Komt van nature voor in vruchten, bessen en bloemen. Wordt gewonnen uit planten. Sommige anthocyanen worden gewonnen uit druiven. De producten waar deze anthocyanen in zitten, zijn niet-koosjere producten en daarom niet geschikt voor orthodoxe joden.",
+				"applications": [
+					"Kruiden",
+					"Noedels",
+					"Ontbijtgranen",
+					"Rood fruit in blik of glas",
+					"Snoep",
+					"Soepen",
+					"Voorgekookte schaaldieren",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E170",
+			"id": "ec8e1713-0051-4ef1-b48b-07fe78cc8f42",
+			"data": {
+				"text": "Witte kleurstof. Komt van nature voor als mineraal in gesteente, bijvoorbeeld kalksteen. Het wordt ook wel kalk of krijt genoemd. Wordt ook wel gebruikt als antiklontermiddel, zuurteregelaar, geleermiddel, verdikkingsmiddel, vulstof, glansmiddel en draagstof. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Druivensap",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E171",
+			"id": "4d4f0ddb-7669-4173-b09b-27063dd528a1",
+			"data": {
+				"text": "Witte kleurstof. Komt van nature voor als mineraal in gesteente en wordt daar ook uit gewonnen.",
+				"applications": ["Kauwgom", "Kruiden", "Noedels", "Ontbijtgranen", "Snoep", "Soepen", "Vis", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E172",
+			"id": "81e4dda1-4520-4d0b-9123-c68ca797e59b",
+			"data": {
+				"text": "Gele, rode of zwarte kleurstof. Komt van nature voor als mineraal in gesteente. Wordt kunstmatig gemaakt uit ijzerpoeder, dat is fijngemaakt ijzer.",
+				"applications": ["Kruiden", "Noedels", "Ontbijtgranen", "Sauzen", "Snoep", "Soepen", "Vis", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E173",
+			"id": "9ea88af6-b104-4a0d-bc99-563586187320",
+			"data": {
+				"text": "Zilvergrijze, metaalkleurige kleurstof. Komt van nature voor als metaal. Het wordt in kleine hoeveelheden gebruikt als versiering op koek en taart.",
+				"applications": ["Koek", "Taart"]
+			}
+		},
+		{
+			"enumber": "E174",
+			"id": "2893c366-919c-470f-bb25-09aa43efad15",
+			"data": {
+				"text": "Zilverkleurige kleurstof. Komt van nature voor als metaal. Het wordt in kleine hoeveelheden gebruikt als versiering op snoep, chocolade en in likeur.",
+				"applications": ["Chocolade", "Likeur", "Snoep"]
+			}
+		},
+		{
+			"enumber": "E175",
+			"id": "9454260e-a88c-4fff-a351-e3258554ae9d",
+			"data": {
+				"text": "Goudkleurige kleurstof. Komt van nature voor als metaal. Het wordt in kleine hoeveelheden gebruikt als versiering op snoep, chocolade en in likeur.",
+				"applications": ["Chocolade", "Likeur", "Snoep"]
+			}
+		},
+		{
+			"enumber": "E180",
+			"id": "d4fbc904-bd31-4b07-90ea-cef0d47539d2",
+			"data": {
+				"text": "Rode kleurstof, valt onder de azo-kleurstoffen. Wordt kunstmatig gemaakt.",
+				"applications": ["Kaaskorsten"]
+			}
+		},
+		{
+			"enumber": "E200",
+			"id": "8b2a1b8f-b97c-47eb-ad81-374340544ed8",
+			"data": {
+				"text": "Conserveermiddel. Sorbinezuur komt van nature voor in de bessen van de lijsterbes (Sorbus aucuparia). Het wordt kunstmatig gemaakt. Het werkt tegen schimmels en gisten. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Alcoholische dranken",
+					"Gedroogde vruchten",
+					"Gnocchi",
+					"Sauzen",
+					"Snoep",
+					"Vleeswaren",
+					"Vruchtensap",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E202",
+			"id": "cad5271b-439a-4062-a821-f5c00ea50962",
+			"data": {
+				"text": "Conserveermiddel. Kaliumsorbaat is een combinatie van sorbinezuur (E 200) met een andere stof. Sorbinezuur komt van nature voor in de bessen van de lijsterbes (Sorbus aucuparia). Kaliumsorbaat wordt kunstmatig gemaakt. Het werkt tegen schimmels en gisten. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Alcoholische dranken",
+					"Gedroogde vruchten",
+					"Gnocchi",
+					"Sauzen",
+					"Snoep",
+					"Vleeswaren",
+					"Vruchtensap",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E210",
+			"id": "ae7be34a-9d9e-424b-b963-d8d4b3443eed",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur komt van nature voor in de meeste soorten fruit, vooral in bessen. Als E-nummer wordt het kunstmatig gemaakt. Het werkt tegen gisten en bacteriën. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": [
+					"Alcoholvrij bier",
+					"Frisdranken",
+					"Gekookte rode bieten",
+					"Gekookte schaaldieren",
+					"Jam",
+					"Olijven",
+					"Sauzen",
+					"Vruchtensap"
+				]
+			}
+		},
+		{
+			"enumber": "E211",
+			"id": "47ea0218-1cfa-4456-8ae6-aecb588ac825",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en benzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Benzoaten komen ook voor in champignons, kaneel, kruidnagel en zuivelproducten. Ze worden kunstmatig gemaakt en werken tegen gisten en bacteriën. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": [
+					"Alcoholvrij bier",
+					"Frisdranken",
+					"Gekookte rode bieten",
+					"Gekookte schaaldieren",
+					"Jam",
+					"Olijven",
+					"Sauzen",
+					"Vruchtensap"
+				]
+			}
+		},
+		{
+			"enumber": "E212",
+			"id": "ad98037d-1675-4c64-ab0d-d0f5bcc7a0f6",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en benzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Benzoaten komen ook voor in champignons, kaneel, kruidnagel en zuivelproducten. Ze worden kunstmatig gemaakt en werken tegen gisten en bacteriën. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": [
+					"Alcoholvrij bier",
+					"Frisdranken",
+					"Gekookte rode bieten",
+					"Gekookte schaaldieren",
+					"Jam",
+					"Olijven",
+					"Sauzen",
+					"Vruchtensap"
+				]
+			}
+		},
+		{
+			"enumber": "E213",
+			"id": "6168e080-6c56-428a-b467-0858b6ac037e",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en benzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Benzoaten komen ook voor in champignons, kaneel, kruidnagel en zuivelproducten. Ze worden kunstmatig gemaakt en werken tegen gisten en bacteriën. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": [
+					"Alcoholvrij bier",
+					"Frisdranken",
+					"Gekookte rode bieten",
+					"Gekookte schaaldieren",
+					"Jam",
+					"Olijven",
+					"Sauzen",
+					"Vruchtensap"
+				]
+			}
+		},
+		{
+			"enumber": "E214",
+			"id": "c552d061-2ae7-4449-b8ce-0766496279c3",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en p-Hydroxybenzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Ze worden kunstmatig gemaakt en werken tegen gisten en schimmels. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": ["Noten", "Paté", "Snacks", "Snoep", "Vleeswaren"]
+			}
+		},
+		{
+			"enumber": "E215",
+			"id": "c9eb1c85-eb2b-4764-a6bf-c0de39944f9b",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en p-Hydroxybenzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Ze worden kunstmatig gemaakt en werken tegen gisten en schimmels. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": ["Noten", "Paté", "Snacks", "Snoep", "Vleeswaren"]
+			}
+		},
+		{
+			"enumber": "E218",
+			"id": "56ecb982-8bfd-4aa7-b516-afc1a94007b1",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en p-Hydroxybenzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Ze worden kunstmatig gemaakt en werken tegen gisten en schimmels. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": ["Noten", "Paté", "Snacks", "Snoep", "Vleeswaren"]
+			}
+		},
+		{
+			"enumber": "E219",
+			"id": "fc533ca0-aaca-4d3b-918f-14546b7c7d96",
+			"data": {
+				"text": "Conserveermiddel. Benzoëzuur (E 210) en p-Hydroxybenzoaten, waaronder <zoekterm>, komen van nature voor in de meeste soorten fruit, vooral in bessen. Ze worden kunstmatig gemaakt en werken tegen gisten en schimmels. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van benzoëzuur.",
+				"applications": ["Noten", "Paté", "Snacks", "Snoep", "Vleeswaren"]
+			}
+		},
+		{
+			"enumber": "E220",
+			"id": "ae7145fc-24e3-4e3c-b909-8ae4338039df",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Met zwaveldioxide kunnen ook sulfieten gemaakt worden. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van zwaveldioxide. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket. <zoekterm> kan ook gebruikt worden in biologische vruchtenwijnen en biologische honingwijn.",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E221",
+			"id": "8be237b2-f1e2-4663-8a3d-591642354885",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket.",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E222",
+			"id": "6861d63d-931e-4ba9-9bb2-4d022afbc733",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket.",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E223",
+			"id": "26a3e4de-d3ba-4cdf-8c02-df941fa8da3c",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket. <zoekterm> kan ook gebruikt worden in biologische schaal- en schelpdieren.",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E224",
+			"id": "9e7f7694-9899-4707-a12c-5b7ab795410e",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket. <zoekterm> kan ook gebruikt worden in biologische vruchtenwijnen.",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E226",
+			"id": "4b905fce-d977-4dda-9d59-c0cbca48652c",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket.",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E227",
+			"id": "d3bb295a-161d-469d-b021-1c9b2c2b2b27",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket. ",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E228",
+			"id": "9289bf52-dd8e-40ce-9499-f7ed90419f71",
+			"data": {
+				"text": "Conserveermiddel en antioxidant. Sulfieten, waaronder <zoekterm>, worden gemaakt uit zwaveldioxide (E 220). Zwaveldioxide wordt gemaakt door het verbranden van zwavel. Zwavel is een natuurlijk voorkomend mineraal. Zwaveldioxide en sulfieten gaan bederf van voedingsmiddelen tegen en kunnen ook werken als bleekmiddel of om verkleuring van producten tegen te gaan. Mensen met een overgevoeligheid voor sulfieten kunnen deze het beste mijden. Als een product meer dan 10 mg per kilo of 10 mg per liter zwaveldioxide of sulfiet bevat, moet sulfiet als ingrediënt genoemd worden op het etiket. ",
+				"applications": [
+					"Alcoholische dranken",
+					"Druiven",
+					"Frisdranken",
+					"Groenten",
+					"Kaneel",
+					"Koekjes",
+					"Mosterd",
+					"Suiker"
+				]
+			}
+		},
+		{
+			"enumber": "E234",
+			"id": "f0a4d62d-0c3f-48eb-b215-6dd3300bbb8e",
+			"data": {
+				"text": "Conserveermiddel. Het wordt van nature gemaakt door de bacteria Lactococcus lactis subsp. lactis. Het gaat de groei van andere bacteriën tegen. Het conserveermiddel zit een mengsel waar ook stoffen uit melk in zitten.[2] Hierdoor is het niet geschikt voor veganisten.   ",
+				"applications": ["Zuivelproducten Pudding"]
+			}
+		},
+		{
+			"enumber": "E235",
+			"id": "7433fa0c-f4f9-49ba-ac38-bf5c90b5fb0f",
+			"data": {
+				"text": "Conserveermiddel. Wordt gemaakt door bacteriën. Het zorgt ervoor dat  schimmels zich minder snel vermenigvuldigen.",
+				"applications": ["Kaas", "Vleeswaren"]
+			}
+		},
+		{
+			"enumber": "E239",
+			"id": "f060abf0-6b64-49b2-b371-08d1b5dc44cc",
+			"data": {
+				"text": "Conserveermiddel, kunstmatig gemaakt. Het zorgt ervoor dat schimmels minder goed kunnen uitgroeien.",
+				"applications": ["Kaas"]
+			}
+		},
+		{
+			"enumber": "E242",
+			"id": "f1da5637-da2c-4075-9e21-b83f727d29f2",
+			"data": {
+				"text": "Conserveermiddel, kunstmatig gemaakt. Het wordt gebruikt bij het steriliseren van dranken.",
+				"applications": ["Alcoholische dranken"]
+			}
+		},
+		{
+			"enumber": "E243",
+			"id": "e56f63c3-374d-466e-8b65-481c120fb688",
+			"data": {
+				"text": "Conserveermiddel, kunstmatig gemaakt. Het zorgt ervoor dat bacteriën zich minder snel vermenigvuldigen.",
+				"applications": ["Vlees"]
+			}
+		},
+		{
+			"enumber": "E249",
+			"id": "336cc679-0690-480f-94d2-d1117fe46d1b",
+			"data": {
+				"text": "Conserveermiddel. Nitrieten, waaronder <zoekterm>, komen van nature voor als mineraal. Het wordt uit de natuur gewonnen of gevormd uit nitraten (E 251 en E 252). Nitrieten zorgen ervoor dat bacteriën, die bederf en bijvoorbeeld botulisme kunnen veroorzaken, minder snel uitgroeien. ",
+				"applications": ["Vlees"]
+			}
+		},
+		{
+			"enumber": "E250",
+			"id": "444b3152-9412-4438-8ec5-a3ef93d0479c",
+			"data": {
+				"text": "Conserveermiddel. Nitrieten, waaronder <zoekterm>, komen van nature voor als mineraal. Het wordt uit de natuur gewonnen of gevormd uit nitraten (E 251 en E 252). Nitrieten zorgen ervoor dat bacteriën, die bederf en bijvoorbeeld botulisme kunnen veroorzaken, minder snel uitgroeien. <zoekterm> kan ook gebruikt worden in biologische vleesproducten.",
+				"applications": ["Vlees"]
+			}
+		},
+		{
+			"enumber": "E251",
+			"id": "a3155874-c894-4327-b7c3-4d8253dfb930",
+			"data": {
+				"text": "Conserveermiddel. Nitraten, waaronder <zoekterm>, komen van nature voor in vrijwel alle (blad)groenten, zoals sla en andijvie. Ze zorgen ervoor dat bacteriën die bederf veroorzaken minder snel uitgroeien. Ze worden ook gebruikt om kleurverlies tegen te gaan. ",
+				"applications": ["Gepekelde haring en sprot", "Kaas"]
+			}
+		},
+		{
+			"enumber": "E252",
+			"id": "52518095-4fe4-4a5c-8e7d-6f58c6222c2a",
+			"data": {
+				"text": "Conserveermiddel. Nitraten, waaronder <zoekterm> komen van nature voor in vrijwel alle (blad)groenten, zoals sla en andijvie. Ze zorgen ervoor dat bacteriën die bederf veroorzaken minder snel uitgroeien. Ze worden ook gebruikt om kleurverlies tegen te gaan. <zoekterm> kan ook gebruikt worden in biologische vleesproducten.",
+				"applications": ["Gepekelde haring en sprot", "Kaas"]
+			}
+		},
+		{
+			"enumber": "E260",
+			"id": "654cc868-95a9-4c95-ab55-2ddb538f5afe",
+			"data": {
+				"text": "Conserveermiddel. Azijnzuur komt van nature voor in allerlei vruchten. Het wordt kunstmatig gemaakt met behulp van bacteriën en gisten. Gisten zetten suikers om in alcohol en bacteriën zetten deze alcohol weer om in azijnzuur. Het kan ook kunstmatig gemaakt worden door stoffen te bewerken. <zoekterm> zorgt ervoor dat bacteriën en schimmels minder snel kunnen uitgroeien. Het wordt ook als geur- en smaakstof gebruikt. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E261",
+			"id": "7bc5d470-74db-42e5-9b92-72df029e1f7e",
+			"data": {
+				"text": "Conserveermiddel. Acetaten, waaronder <zoekterm>, zijn combinaties van azijnzuur (E 260) met andere stoffen. Azijnzuur komt van nature voor in allerlei vruchten. Het wordt kunstmatig gemaakt met behulp van bacteriën en gisten. Gisten zetten suikers om in alcohol en bacteriën zetten deze alcohol weer om in azijnzuur. Het kan ook kunstmatig gemaakt worden door stoffen te bewerken. Acetaten komen van nature voor in elke lichaamscel. Ze zorgen ervoor dat bacteriën en schimmels minder snel kunnen uitgroeien. Ook worden ze gebruikt om de zuurtegraad te regelen. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E262",
+			"id": "27a1ab98-8e60-47e9-8de1-dc9b8c9e0dae",
+			"data": {
+				"text": "Conserveermiddel. Acetaten, waaronder <zoekterm>, zijn combinaties van azijnzuur (E 260) met andere stoffen. Azijnzuur komt van nature voor in allerlei vruchten. Het wordt kunstmatig gemaakt met behulp van bacteriën en gisten. Gisten zetten suikers om in alcohol en bacteriën zetten deze alcohol weer om in azijnzuur. Het kan ook kunstmatig gemaakt worden door stoffen te bewerken. Acetaten komen van nature voor in elke lichaamscel. Ze zorgen ervoor dat bacteriën en schimmels minder snel kunnen uitgroeien. Ook worden ze gebruikt om de zuurtegraad te regelen. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E263",
+			"id": "83072fe6-4cd2-4752-a418-865b55d2ab13",
+			"data": {
+				"text": "Conserveermiddel. Acetaten, waaronder <zoekterm>, zijn combinaties van azijnzuur (E 260) met andere stoffen. Azijnzuur komt van nature voor in allerlei vruchten. Het wordt kunstmatig gemaakt met behulp van bacteriën en gisten. Gisten zetten suikers om in alcohol en bacteriën zetten deze alcohol weer om in azijnzuur. Het kan ook kunstmatig gemaakt worden door stoffen te bewerken. Acetaten komen van nature voor in elke lichaamscel. Ze zorgen ervoor dat bacteriën en schimmels minder snel kunnen uitgroeien. Ook worden ze gebruikt om de zuurtegraad te regelen. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E270",
+			"id": "bbd03e4d-63bc-471a-8f13-e5c6b5f69a37",
+			"data": {
+				"text": "Conserveermiddel. Melkzuur komt van nature voor in ons lichaam en in heel veel producten zoals fruit en yoghurt. Het wordt gemaakt door het vergisten van suikers of kunstmatig gemaakt. Melkzuur vertraagt het gistingsproces in producten zoals brood, waardoor het langer houdbaar blijft. Het wordt ook gebruikt om verkleuring van producten tegen te gaan en als voedingszuur. Hoewel de naam een relatie met melk suggereert wordt het gemaakt uit suiker en kan het dus gebruikt worden door mensen met een melkallergie of lactose-intolerantie. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Bier",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E280",
+			"id": "9bf91af5-9e79-4d58-9418-a8bd94bd1b03",
+			"data": {
+				"text": "Conserveermiddel. Propionzuur komt van nature voor in ons lichaam. Het werkt vooral tegen schimmels.",
+				"applications": ["Brood", "Kaas", "Koek en gebak"]
+			}
+		},
+		{
+			"enumber": "E281",
+			"id": "64b57da1-6ac9-4ff6-9b60-67df714571ff",
+			"data": {
+				"text": "Conserveermiddel. Propionaten, waaronder <zoekterm>, zijn combinaties van propionzuur (E 280) met andere stoffen. Propionzuur komt van nature voor in ons lichaam. Propionaten en propionzuur werken vooral tegen schimmels.",
+				"applications": ["Brood", "Kaas", "Koek en gebak"]
+			}
+		},
+		{
+			"enumber": "E282",
+			"id": "b808d7f9-f79c-42ea-87d0-a1da2a37c44e",
+			"data": {
+				"text": "Conserveermiddel. Propionaten, waaronder <zoekterm>, zijn combinaties van propionzuur (E 280) met andere stoffen. Propionzuur komt van nature voor in ons lichaam. Propionaten en propionzuur werken vooral tegen schimmels.",
+				"applications": ["Brood", "Kaas", "Koek en gebak"]
+			}
+		},
+		{
+			"enumber": "E283",
+			"id": "44e063c8-e873-4d8c-8ef4-5c7dfb81ccaa",
+			"data": {
+				"text": "Conserveermiddel. Propionaten, waaronder <zoekterm>, zijn combinaties van propionzuur (E 280) met andere stoffen. Propionzuur komt van nature voor in ons lichaam. Propionaten en propionzuur werken vooral tegen schimmels.",
+				"applications": ["Brood", "Kaas", "Koek en gebak"]
+			}
+		},
+		{
+			"enumber": "E284",
+			"id": "29f99126-e938-496e-9c79-e14ae2872515",
+			"data": {
+				"text": "Conserveermiddel. Boorzuur wordt gemaakt uit de stof boron. Natriumtetraboraat (borax) is een combinatie van boorzuur met een andere stof. Het wordt kunstmatig gemaakt. Het wordt nauwelijks gebruikt in voedingsmiddelen, alleen in kaviaar.",
+				"applications": ["Kaviaar"]
+			}
+		},
+		{
+			"enumber": "E285",
+			"id": "eac2e25b-4515-4c4b-b90a-234e03be8d52",
+			"data": {
+				"text": "Conserveermiddel. Boorzuur wordt gemaakt uit de stof boron. Natriumtetraboraat (borax) is een combinatie van boorzuur met een andere stof. Het wordt kunstmatig gemaakt. Het wordt nauwelijks gebruikt in voedingsmiddelen, alleen in kaviaar.",
+				"applications": ["Kaviaar"]
+			}
+		},
+		{
+			"enumber": "E290",
+			"id": "cfb5ecef-f629-4205-ab2e-337ec9ccb382",
+			"data": {
+				"text": "Conserveermiddel. Koolstofdioxide is een gas en komt van nature voor in de lucht. Het wordt ook in ons lichaam gemaakt. Het kan in alle levensmiddelencategorieën gebruikt worden, maar is vooral bekend als de prik in  koolzuurhoudende dranken. Het wordt ook gebruikt als drijfgas. Het kan ook gebruikt worden in biologische\nproducten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Soepen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E296",
+			"id": "7403cfc4-9244-4263-bffa-8fdefb972689",
+			"data": {
+				"text": "Conserveermiddel. Appelzuur komt van nature voor in groente en fruit, zoals appels. Het wordt ook in ons lichaam  gemaakt. Als conserveermiddel wordt het kunstmatig gemaakt. Het wordt gebruikt als voedingszuur, als aroma en het gaat verkleuring van groente en fruit tegen. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Ananassap",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E297",
+			"id": "69e13402-c617-46d5-a864-ab8cee665ea4",
+			"data": {
+				"text": "Conserveermiddel. Komt van nature voor in de meeste vruchten en groenten. Het wordt ook in ons lichaam gemaakt. Het wordt kunstmatig gemaakt door stoffen te bewerken of met schimmels. Het wordt gebruikt als voedingszuur en in bakpoeder als bron voor koolzuur.",
+				"applications": ["Desserts met vruchtensmaak", "Kauwgom", "Poeders", "Snoep"]
+			}
+		},
+		{
+			"enumber": "E300",
+			"id": "e6fcca41-351b-42ac-9cf3-346d5d95eb4a",
+			"data": {
+				"text": "Antioxidant. Wordt gebruikt om bederf tegen te gaan. Ook wel bekend als vitamine C. Het is een zuur dat van nature voorkomt in vrijwel alle groenten en fruit. Als antioxidant wordt het kunstmatig gemaakt. Het kan ook gebruikt worden in biologische vleesproducten.",
+				"applications": [
+					"Bloem",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Voorverpakte gesneden groenten en fruit",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E301",
+			"id": "097ff26e-31d4-464f-8aa1-c489bd3e3e94",
+			"data": {
+				"text": "Antioxidant. Is een combinatie van ascorbinezuur en andere stoffen. Het wordt kunstmatig gemaakt. Ascorbinezuur is ook wel bekend als vitamine C, wat van nature voorkomt in vrijwel alle groenten en fruit. Het kan ook gebruikt worden in biologische vleesproducten.",
+				"applications": [
+					"Bier",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E302",
+			"id": "86682bbd-fdb6-4c7c-b588-fa7b1ee3df77",
+			"data": {
+				"text": "Antioxidant. Is een combinatie van ascorbinezuur en andere stoffen. Het wordt kunstmatig gemaakt. Ascorbinezuur is ook wel bekend als vitamine C, wat van nature voorkomt in vrijwel alle groenten en fruit. Het kan ook gebruikt worden in biologische vleesproducten.",
+				"applications": [
+					"Bevroren groenten en fruit",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Vis",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E304",
+			"id": "2bdb3ec1-4be3-4c57-94f3-10d1ced0b9a9",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het wordt gebruikt in vetrijke producten zoals koek en gebak om bederf tegen te gaan. Een onderdeel van de stof is palmitinezuur. Dit wordt vrijwel altijd gewonnen uit plantaardig vet, maar kan ook uit dierlijk vet komen. Hierdoor kan het niet geschikt zijn voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E306",
+			"id": "e99d69ab-c8a2-4529-b540-37cd1b4b503f",
+			"data": {
+				"text": "Antioxidant. Ook wel bekend als vitamine E. Het komt van nature voor in plantaardige oliën en is daar ook een extract  van. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan. Het kan ook gebruikt worden in biologische oliën en vetten als antioxidant.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E307",
+			"id": "3df23582-7629-4600-99fc-c8fc1fc09f0f",
+			"data": {
+				"text": "Antioxidant. Ook wel bekend als vitamine E. Het komt van nature voor in plantaardige oliën en kan daar ook als extract uit gehaald worden. Het kan ook kunstmatig gemaakt worden. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"zoals koekjes en hapjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E308",
+			"id": "5e23f20c-42c1-48eb-8ec1-b53fe4f11e6c",
+			"data": {
+				"text": "Antioxidant. Ook wel bekend als vitamine E. Het komt van nature voor in plantaardige oliën en kan daar ook als extract uit gehaald worden. Het kan ook kunstmatig gemaakt worden. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"zoals koekjes en hapjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E309",
+			"id": "27d2ea3c-9d0e-44f9-bb7e-e598ec5a3b41",
+			"data": {
+				"text": "Antioxidant. Ook wel bekend als vitamine E. Het komt van nature voor in plantaardige oliën en kan daar ook als extract uit gehaald worden. Het kan ook kunstmatig gemaakt worden. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E310",
+			"id": "72503a39-2246-4f8e-8172-ecb6f613c97d",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Gallaten, waaronder <zoekterm>, worden in vetrijke producten om bederf tegen te gaan. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Cakemixen",
+					"Kauwgom",
+					"Melkpoeder",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Sauzen",
+					"Snacks",
+					"Soepen"
+				]
+			}
+		},
+		{
+			"enumber": "E311",
+			"id": "a9eb4c30-fd6f-4899-a535-b8c669df3161",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Gallaten, waaronder <zoekterm>, worden aan vetrijke producten toegevoegd om bederf tegen te gaan. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Cakemixen",
+					"Kauwgom",
+					"Melkpoeder",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Sauzen",
+					"Snacks",
+					"Soepen"
+				]
+			}
+		},
+		{
+			"enumber": "E312",
+			"id": "275d01cb-5326-4eb2-a43d-9ecd68e93f31",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Gallaten, waaronder <zoekterm>, worden in vetrijke producten om bederf tegen te gaan. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Cakemixen",
+					"Kauwgom",
+					"Melkpoeder",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Sauzen",
+					"Snacks",
+					"Soepen"
+				]
+			}
+		},
+		{
+			"enumber": "E315",
+			"id": "09c3d713-7f64-43e5-a3bb-c45eca4f83f2",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het lijkt op vitamine C. Het wordt alleen aan vlees en vis toegevoegd en gaat bederf tegen.",
+				"applications": ["Vis", "Vlees"]
+			}
+		},
+		{
+			"enumber": "E316",
+			"id": "beb4b0c5-38c9-49d2-b5cd-69311f1edf18",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het lijkt op vitamine C. Het wordt alleen aan vlees en vis toegevoegd en gaat bederf tegen.",
+				"applications": ["Vis", "Vlees"]
+			}
+		},
+		{
+			"enumber": "E319",
+			"id": "96bea6f9-18ad-4f31-b6e9-f8923b9e673c",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan.",
+				"applications": [
+					"Cakemixen",
+					"Kauwgom",
+					"Melkpoeder",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Sauzen",
+					"Snacks",
+					"Soepen"
+				]
+			}
+		},
+		{
+			"enumber": "E320",
+			"id": "18d21b27-9c0a-47f5-a7db-02cf488924c7",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Cakemixen",
+					"Kauwgom",
+					"Melkpoeder",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Sauzen",
+					"Snacks",
+					"Soepen"
+				]
+			}
+		},
+		{
+			"enumber": "E321",
+			"id": "5fc3ca6c-a170-41d2-b83f-4b2de496fcf7",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het wordt gebruikt in vetrijke producten om bederf tegen te gaan. Er zijn  enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": ["Kauwgom", "Kruiden", "Oliën en vetten", "Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E322",
+			"id": "40b9501d-ab7f-4741-a0c7-94f39559051f",
+			"data": {
+				"text": "Emulgator. Komt van nature voor in alle cellen van elk levend wezen. Het wordt (vooral) gewonnen uit sojaolie en  eidooier. Het werkt als emulgator en stabilisator in producten met water en olie of vet. Lecithinen die gemaakt worden uit soja kunnen sporen van soja-eiwit bevatten, waardoor bij mensen met een soja-allergie een allergische reactie kan optreden. Het wordt vrijwel altijd gewonnen uit sojaolie, maar kan ook uit eidooier komen. Hierdoor kan het niet geschikt zijn voor veganisten, vegetariërs en sommige religies. Het kan ook gebruikt worden in biologische\nzuivelproducten.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E325",
+			"id": "7bed6d69-869b-4aae-8ffd-f4af496034af",
+			"data": {
+				"text": "Voedingszuur. Wordt kunstmatig gemaakt. Het is een combinatie van melkzuur (E 270) met andere stoffen. Melkzuur komt van nature voor in ons lichaam. Het wordt kunstmatig gemaakt door een bacterie toe te voegen aan suikers. Melkzuur en natriumlactaat worden gebruikt als conserveermiddel. Ze vertragen het gistingsproces in producten zoals brood, waardoor het langer houdbaar blijft. Ook worden ze gebruikt als stabilisatoren. Hoewel de naam melkzuur een relatie met melk suggereert wordt het gemaakt uit suiker en kan het dus gebruikt worden door mensen met een melkallergie of lactose-intolerantie. Het kan ook gebruikt worden in biologische producten op basis van melk en biologische vleesproducten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E326",
+			"id": "0b178453-f7bd-41ce-b186-58252c568945",
+			"data": {
+				"text": "Voedingszuur. Wordt kunstmatig gemaakt. Het is een combinatie van melkzuur (E 270) met andere stoffen. Melkzuur komt van nature voor in ons lichaam. Het wordt kunstmatig gemaakt door een bacterie toe te voegen aan suikers. Melkzuur en kaliumlactaat worden gebruikt als conserveermiddel. Ze vertragen het gistingsproces in producten zoals brood, waardoor het langer houdbaar blijft. Ook worden ze gebruikt als stabilisatoren. Hoewel de naam melkzuur een relatie met melk suggereert wordt het gemaakt uit suiker en kan het dus gebruikt worden door mensen met een melkallergie of lactose-intolerantie. ",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E327",
+			"id": "50772bbf-4088-45c6-b24b-59a4ee1bc83b",
+			"data": {
+				"text": "Voedingszuur. Wordt kunstmatig gemaakt. Het is een combinatie van melkzuur (E 270) met andere stoffen. Melkzuur komt van nature voor in ons lichaam. Het wordt kunstmatig gemaakt door een bacterie toe te voegen aan suikers. Melkzuur en calciumlactaat worden gebruikt als conserveermiddel. Ze vertragen het gistingsproces in producten zoals brood, waardoor het langer houdbaar blijft. Ook worden ze gebruikt als stabilisatoren. Hoewel de naam melkzuur een relatie met melk suggereert wordt het gemaakt uit suiker en kan het dus gebruikt worden door mensen met een melkallergie of lactose-intolerantie. ",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E330",
+			"id": "e33a994d-e6de-445c-b817-4a198744bb16",
+			"data": {
+				"text": "Voedingszuur. Komt van nature voor in alle cellen van elk levend wezen. Het komt in hoge concentraties voor in fruit.  Het wordt gemaakt door een schimmel toe te voegen aan suiker. Het wordt gebruikt voor verschillende doeleinden: versterken van antioxidanten, als zuurteregelaar, als geur- en smaakstof en het voorkomt verkleuring van fruit. Citroenzuur geeft geen overgevoeligheidsreactie bij mensen met een overgevoeligheid voor citrusfruit, omdat het uit suiker wordt gemaakt en niet uit citrusfruit. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Bier",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Vruchtensap",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E331",
+			"id": "0b0bf4f4-1adf-44f6-9619-44cc5d262c70",
+			"data": {
+				"text": "Voedingszuur. Natriumcitraten zijn combinaties van citroenzuur (E 330) en andere stoffen, ze worden kunstmatig  gemaakt. Citroenzuur komt van nature voor in alle cellen van elk levend wezen. Het komt in hoge concentraties voor in fruit. Het wordt gemaakt met behulp van schimmels uit suiker. Natriumcitraten hebben verschillende functies: versterken van antioxidanten, als zuurteregelaar als geur- en smaakstof en het voorkomt verkleuring van fruit. Citroenzuur en citraten geven geen overgevoeligheidsreactie bij mensen met een overgevoeligheid voor citrusfruit, omdat het uit suiker wordt gemaakt en niet uit citrusfruit. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E332",
+			"id": "08b5574d-c32d-4fe9-bf17-085880a21afb",
+			"data": {
+				"text": "Voedingszuur. Kaliumcitraten zijn combinaties van citroenzuur (E 330) met andere stoffen. Citroenzuur komt van nature voor in alle cellen van elk levend wezen. Het komt in hoge concentraties voor in fruit. Het wordt gemaakt met behulp van schimmels uit suiker. Kaliumcitraten worden gebruikt als zuurteregelaar, als middel om metalen te binden en als voeding voor gisten. Citroenzuur en citraten geven geen overgevoeligheidsreactie bij mensen met een overgevoeligheid voor citrusfruit, omdat het uit suiker wordt gemaakt en niet uit citrusfruit.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E333",
+			"id": "d2287667-0948-414f-9d07-e9b4838e642d",
+			"data": {
+				"text": "Voedingszuur. Calciumcitraten zijn combinaties van citroenzuur (E 330) met andere stoffen. Citroenzuur komt van nature voor in alle cellen van elk levend wezen. Het komt in hoge concentraties voor in fruit. Het wordt gemaakt met behulp van een schimmel uit suiker. Calciumcitraten worden gebruikt als zuurteregelaar, als middel om metalen te binden en om de stevigheid van ingeblikte groenten te verbeteren. Citroenzuur en citraten geven geen overgevoeligheidsreactie bij mensen met een overgevoeligheid voor citrusfruit, omdat het uit suiker wordt gemaakt en niet uit citrusfruit. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E334",
+			"id": "a5480268-67af-4f16-bb1a-d3ad201a7234",
+			"data": {
+				"text": "Voedingszuur. Komt van nature voor in veel soorten fruit, met name in druiven. Wordt gemaakt van restproducten uit de \nwijnindustrie, bijvoorbeeld uit druivenschillen. In sommige gevallen worden de producten waar het in zit daarom als niet geschikt voor orthodoxe joden gezien. Wordt gebruikt als zuurteregelaar en als smaakversterker in producten met fruit en een fruitaroma. Ook gaat het verkleuring van fruit tegen. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E335",
+			"id": "1cf74f91-df46-43f0-9756-310d969e6a89",
+			"data": {
+				"text": "Voedingszuur. Natriumtartraten zijn combinaties van L(+)-Wijnsteenzuur (E 334) met andere stoffen. L(+)-Wijnsteenzuur \nkomt van nature voor in veel soorten fruit, met name in druiven. Het wordt gemaakt van restproducten uit de wijnindustrie, bijvoorbeeld uit druivenschillen. In sommige gevallen worden de producten waar het in zit daarom als niet geschikt voor orthodoxe joden gezien. Natriumtartraten worden gebruikt als zuurteregelaar en antioxidant. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E336",
+			"id": "eaae2c6d-e665-4a0d-9e42-cfb3db825fd9",
+			"data": {
+				"text": "Voedingszuur. Kaliumtartraten zijn combinaties van L(+)-Wijnsteenzuur (E 334) van andere stoffen. L(+)-Wijnsteenzuur komt van nature voor in veel soorten fruit, met name in druiven. Het wordt gemaakt van restproducten uit de wijnindustrie, bijvoorbeeld uit druivenschillen. In sommige gevallen worden de producten waar het in zit daarom als niet geschikt voor orthodoxe joden gezien. Kaliumtartraten worden gebruikt als zuurteregelaar, antioxidant, emulgator en rijsmiddel in bakpoeder. Het kan ook gebruikt worden in biologische producten",
+				"applications": [
+					"Brood",
+					"Druivensap",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E337",
+			"id": "6842bfbc-a06b-4682-81b3-626ea99e177e",
+			"data": {
+				"text": "Voedingszuur. Kaliumnatriumtartraat is een combinatie van L(+)-Wijnsteenzuur (E 334) met andere stoffen. L(+)-Wijnsteenzuur komt van nature voor in veel soorten fruit, met name in druiven. Het wordt gemaakt van restproducten uit de wijnindustrie, bijvoorbeeld uit druivenschillen. In sommige gevallen worden de producten waar het in zit daarom als niet geschikt voor orthodoxe joden gezien. Kaliumnatriumtartraat wordt gebruikt als zuurteregelaar,\nantioxidant, stabilisator en emulgator.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E338",
+			"id": "c71ef36d-4f8b-4389-ba2a-2c5ee3602864",
+			"data": {
+				"text": "Voedingszuur. <zoekterm> komt van nature voor in veel soorten groente en fruit. Het wordt kunstmatig gemaakt uit fosfaaterts. Het komt van nature voor in ons lichaam. Het mag in alle levensmiddelen gebruikt worden en wordt gebruikt als zuurteregelaar, antioxidant en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E339",
+			"id": "50548da2-46cf-417d-b6f7-d44a6fff580d",
+			"data": {
+				"text": "Voedingszuur. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur en andere stoffen. Fosforzuur komt van nature voor in veel soorten groente en fruit. Het wordt kunstmatig gemaakt uit fosfaaterts. Fosforzuur en fosfaten komen van nature voor in ons lichaam. Ze mogen in alle levensmiddelen gebruikt worden. Ze worden gebruikt als zuurteregelaar, als antioxidant, om uitdroging (bijvoorbeeld van vlees) te voorkomen, als anti-klontermiddel en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E340",
+			"id": "2db9c73a-818f-4aae-97f0-bcb76f7fb0c4",
+			"data": {
+				"text": "Voedingszuur. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur en andere stoffen. Fosforzuur komt van nature voor in veel soorten groente en fruit. Het wordt kunstmatig gemaakt uit fosfaaterts. Fosforzuur en fosfaten komen van nature voor in ons lichaam. Ze mogen in alle levensmiddelen gebruikt worden. Ze worden gebruikt als zuurteregelaar, als antioxidant, om uitdroging (bijvoorbeeld van vlees) te voorkomen, als anti-klontermiddel en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E341",
+			"id": "6640fec3-9a4a-4276-8be6-9e2cab690e5b",
+			"data": {
+				"text": "Voedingszuur. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur en andere stoffen. Fosforzuur komt van nature voor in veel soorten groente en fruit. Het wordt kunstmatig gemaakt uit fosfaaterts. Fosforzuur en fosfaten komen van nature voor in ons lichaam. Ze mogen in alle levensmiddelen gebruikt worden. Ze worden gebruikt als zuurteregelaar, als antioxidant, om uitdroging (bijvoorbeeld van vlees) te voorkomen, als anti-klontermiddel en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E343",
+			"id": "a6588ec6-3365-4891-80eb-ede7c1a759a1",
+			"data": {
+				"text": "Voedingszuur. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur en andere stoffen. Fosforzuur komt van nature voor in veel soorten groente en fruit. Het wordt kunstmatig gemaakt uit fosfaaterts. Fosforzuur en fosfaten komen van nature voor in ons lichaam. Ze mogen in alle levensmiddelen gebruikt worden. Ze worden gebruikt als zuurteregelaar, als antioxidant, om uitdroging (bijvoorbeeld van vlees) te voorkomen, als anti-klontermiddel en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E350",
+			"id": "8e6f8448-927f-410a-be43-85d4b7a5da3c",
+			"data": {
+				"text": "Voedingszuur. Is een combinatie van appelzuur met andere stoffen (E 296). Appelzuur is een zuur dat van nature  voorkomt in de meeste vruchten en groenten. Het wordt ook in ons lichaam gemaakt. Natriummalaten worden kunstmatig gemaakt. Ze worden gebruikt als voedingszuur en als smaakstof.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E351",
+			"id": "21a43af4-4f6d-45a4-b253-2f5fd74f3fb2",
+			"data": {
+				"text": "Voedingszuur. Is een combinatie van appelzuur met andere stoffen (E 296). Appelzuur is een zuur dat van nature  voorkomt in de meeste vruchten en groenten. Het wordt ook in ons lichaam gemaakt. Kaliummalaat is kunstmatig gemaakt. Ze worden gebruikt als voedingszuur en als smaakstof.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E352",
+			"id": "6be76024-9bf5-476e-b003-cf3ebe1aec7b",
+			"data": {
+				"text": "Voedingszuur. Is een combinatie van appelzuur (E 296) met andere stoffen. Appelzuur is een zuur dat van nature  voorkomt in de meeste vruchten en groenten. Het wordt ook in ons lichaam gemaakt. Calciummalaten worden kunstmatig gemaakt. Ze worden gebruikt als verdikkingsmiddel en aromastof.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E353",
+			"id": "806c33e6-dac6-40ec-846f-028a301d1d2b",
+			"data": {
+				"text": "Voedingszuur. Wordt gemaakt uit glucose. Deze glucose komt vrij bij het maken van rietsuiker. Het wordt gebruikt als zuurteregelaar en om metalen in wijn te binden.",
+				"applications": ["Wijn"]
+			}
+		},
+		{
+			"enumber": "E354",
+			"id": "89810774-2fd6-4d4c-b6a5-8ec00b642810",
+			"data": {
+				"text": "Voedingszuur. Is een combinatie van L(+)-Wijnsteenzuur (E 334) en andere stoffen. L(+)-Wijnsteenzuur  komt van nature voor in veel soorten fruit, met name in druiven. Het wordt gemaakt van restproducten uit de  wijnindustrie, bijvoorbeeld uit druivenschillen. In sommige gevallen worden de producten waar het in zit daarom als niet geschikt voor orthodoxe joden gezien. Calciumtartraat wordt gebruikt als zuurteregelaar en conserveermiddel.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Kinderkoekjes",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E355",
+			"id": "aa298a58-423d-4ace-bf76-3897701de160",
+			"data": {
+				"text": "Voedingszuur. <zoekterm> komt van nature voor in bieten en suikerriet. Het wordt gebruikt als zuurteregelaar, als aromastof en als smaakversterker. ",
+				"applications": ["Desserts", "Poeders voor dranken", "Taartvulling"]
+			}
+		},
+		{
+			"enumber": "E356",
+			"id": "98d4c1de-8f22-49ff-adbe-6f9190bf95cc",
+			"data": {
+				"text": "Voedingszuur. Adipaten, waaronder <zoekterm>, zijn een combinatie van adipinezuur en andere stoffen. Adipinezuur komt van nature voor in bieten en suikerriet. Adipaten worden gebruikt als zuurteregelaar en smaakversterkers. ",
+				"applications": ["Desserts", "Poeders voor dranken", "Taartvulling"]
+			}
+		},
+		{
+			"enumber": "E357",
+			"id": "07f7510f-aaca-4f06-b500-4c930f00f3e3",
+			"data": {
+				"text": "Voedingszuur [Food-info, 2015][aid, 2015]. Adipaten, waaronder <zoekterm>, zijn een combinatie van adipinezuur en andere stoffen [Food-info, 2015]. Adipinezuur komt van nature voor in bieten en suikerriet [Food-info, 2015]. Adipaten worden gebruikt als zuurteregelaar [Food-info, 2015] en smaakversterkers [aid, 2015]. ",
+				"applications": ["Desserts", "Poeders voor dranken", "Taartvulling"]
+			}
+		},
+		{
+			"enumber": "E363",
+			"id": "c3085b29-7d5b-427d-92b6-2d6a58fad4a1",
+			"data": {
+				"text": "Voedingszuur. Komt van nature voor in vrijwel alle soorten groente en fruit. Het wordt kunstmatig gemaakt uit azijnzuur (E 260). Het wordt gebruikt als zuurteregelaar en smaakversterker.",
+				"applications": ["Desserts", "Melkproducten", "Poeders voor dranken", "Soepen"]
+			}
+		},
+		{
+			"enumber": "E380",
+			"id": "1ea597d4-3113-452a-9f09-332e71d0076a",
+			"data": {
+				"text": "Voedingszuur. Is een combinatie van citroenzuur (E 330) en andere stoffen. Citroenzuur komt van nature voor in alle cellen van elk levend wezen. Het komt in hoge concentraties voor in fruit. Het wordt gemaakt met behulp van een schimmel uit suiker. Het wordt gebruikt als zuurteregelaar en emulgator. Citroenzuur en citraten geven geen overgevoeligheidsreactie bij mensen met een overgevoeligheid voor citrusfruit, omdat het uit suiker wordt gemaakt en niet uit citrusfruit.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E385",
+			"id": "98812727-6321-4cc5-9df6-a42de33b52fd",
+			"data": {
+				"text": "Complexvormer. Wordt kunstmatig gemaakt. Het wordt gebruikt om metalen te binden in bijvoorbeeld sauzen. Het wordt ook als stabilisator gebruikt.",
+				"applications": ["Groenten in blik of glas", "Sauzen", "Schaal- en schelpdieren", "Vetten"]
+			}
+		},
+		{
+			"enumber": "E392",
+			"id": "18241a43-5dca-4672-ad74-5d2fe99672be",
+			"data": {
+				"text": "Antioxidant. Komt van nature voor in de rozemarijnplant (Rosmarinus officinalis L.) en wordt daar ook uit gewonnen. Het wordt gebruikt om bederf van producten tegen te gaan. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Aardappelpureepoeder",
+					"Bewerkte noten",
+					"Kauwgom",
+					"Koek en gebak",
+					"Melkpoeder",
+					"Raviolivulling",
+					"Soepen",
+					"Vlees"
+				]
+			}
+		},
+		{
+			"enumber": "E400",
+			"id": "c01b9a9a-f468-499a-b42c-511fc3e55f7f",
+			"data": {
+				"text": "Verdikkingsmiddel. <zoekterm> komt van nature voor in zeewier (Phaeophyceae) en wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken, bijvoorbeeld bij room en als emulgator om vet en water te vermengen. Kan gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Pudding",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E401",
+			"id": "7c287fd2-72de-477d-b6bb-e13b940c48e2",
+			"data": {
+				"text": "Verdikkingsmiddel. Alginaten, waaronder <zoekterm>, zijn een combinatie van alginezuur met andere stoffen. Alginezuur komt van nature voor in zeewier (Phaeophyceae) en wordt daar ook uit gewonnen. Alginezuur en alginaten worden gebruikt om producten steviger te maken, bijvoorbeeld bij room en als emulgator om vet en water te vermengen. Kan gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Pudding",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E402",
+			"id": "ab7670be-6ae8-46a8-870d-c16f79688deb",
+			"data": {
+				"text": "Verdikkingsmiddel. Alginaten, waaronder <zoekterm>, zijn een combinatie van alginezuur met andere stoffen. Alginezuur komt van nature voor in zeewier (Phaeophyceae) en wordt daar ook uit gewonnen. Alginezuur en alginaten worden gebruikt om producten steviger te maken, bijvoorbeeld bij room en als emulgator om vet en water te vermengen. Kan gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Pudding",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E403",
+			"id": "0e0e729f-9b05-4605-a056-359caddbeb26",
+			"data": {
+				"text": "Verdikkingsmiddel. Alginaten, waaronder <zoekterm>, zijn een combinatie van alginezuur met andere stoffen. Alginezuur komt van nature voor in zeewier (Phaeophyceae) en wordt daar ook uit gewonnen. Alginezuur en alginaten worden gebruikt om producten steviger te maken, bijvoorbeeld bij room en als emulgator om vet en water te vermengen. Kan gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Pudding",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E404",
+			"id": "61e5aca5-21b5-499c-9340-d437563293e7",
+			"data": {
+				"text": "Verdikkingsmiddel. Alginaten, waaronder <zoekterm>, zijn een combinatie van alginezuur met andere stoffen. Alginezuur komt van nature voor in zeewier (Phaeophyceae) en wordt daar ook uit gewonnen. Alginezuur en alginaten worden gebruikt om producten steviger te maken, bijvoorbeeld bij room en als emulgator om vet en water te vermengen. Kan gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Pudding",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E405",
+			"id": "56499251-d54d-42fa-ad95-e4b532dd5c1d",
+			"data": {
+				"text": "Verdikkingsmiddel. Alginaten, waaronder <zoekterm>, zijn een combinatie van alginezuur met andere stoffen. Alginezuur komt van nature voor in zeewier (Phaeophyceae) en wordt daar ook uit gewonnen. Alginezuur en alginaten worden gebruikt om producten steviger te maken, bijvoorbeeld bij room en als emulgator om vet en water te vermengen. Kan gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Alcoholische dranken",
+					"Desserts",
+					"Frisdranken",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Waterijs"
+				]
+			}
+		},
+		{
+			"enumber": "E406",
+			"id": "8fa98547-3fd5-4541-bc91-e9c5a932c38c",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in zeewier (Rhodophyceae) en wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator. Het kan ook gebruikt worden in biologische producten op basis van melk en biologische vleesproducten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E407",
+			"id": "052ff09e-5352-4a3d-97a6-cdae462d70c0",
+			"data": {
+				"text": "Verdikkingsmiddel. Carrageen is een mengsel van stoffen die van nature voorkomen in zeewier (Chrondrus crispus, Gigartina stellata, Euchema spinosum, E. cottonii) en het wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook  wordt het gebruikt als stabilisator. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden. Het kan ook gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E407a",
+			"id": "3838897a-d9f2-4749-a952-60c94205eecf",
+			"data": {
+				"text": "Verdikkingsmiddel. Het is hetzelfde als carrageen (E 407), maar heeft een iets andere structuur. Carrageen is een mengsel van stoffen die van nature voorkomen in zeewier (Chrondrus crispus, Gigartina stellata, Euchema spinosum, E. cottonii) en het wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E410",
+			"id": "e3034d6f-9e7d-4921-8dcf-ab1c26ed9dfe",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in de carobboom (Ceratonia siliqua) en wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Voedingsmiddelen voor baby’s en peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E412",
+			"id": "213d3700-d6c8-4aff-add4-d30e9dc2332b",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in de guarstruik  (Cyamopsis tetragonolobus) en wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E413",
+			"id": "b3a557f0-d866-4d25-aaf0-f0053e176791",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in de boom Astralagus gummiferen wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E414",
+			"id": "011e91b2-01b1-4ac2-95f6-1920eae5dcc7",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in de boom Acacia senegalen wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Bier",
+					"Brood",
+					"Frisdranken",
+					"Glansmiddel in chocolade",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E415",
+			"id": "e34da1e5-7586-49f7-9bc1-7f8f4bdb64d4",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt kunstmatig gemaakt door een bacterie toe te voegen aan suiker. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E416",
+			"id": "e59dc4ed-b337-47f6-9978-ce8872742691",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in de boom Sterculia urensen aanverwante soorten en wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan winderigheid of een opgeblazen gevoel optreden.",
+				"applications": [
+					"Desserts",
+					"Eierlikeur",
+					"Kauwgom",
+					"Koek en gebak",
+					"Omhulde noten",
+					"Sauzen",
+					"Snacks",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E417",
+			"id": "28ebf5c3-f916-4d43-84cf-205709fe85c8",
+			"data": {
+				"text": "Verdikkingsmiddel. Komt van nature voor in de boom Cesalpinia spinosaen wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan het laxerend werken en er kan winderigheid of een opgeblazen gevoel optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E418",
+			"id": "aff0c34c-debe-458c-bbfd-052b5a6534be",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt van nature gemaakt uit zetmeel door een bacterie. Het wordt gebruikt om producten steviger te maken. Ook wordt het gebruikt als stabilisator en als emulgator om vet en water te vermengen. Als je er veel van eet, kan het laxerend werken en er kan winderigheid of een opgeblazen gevoel optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Kauwgom",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E420",
+			"id": "05bb58b0-a98c-4306-b77d-c4af13aee1cb",
+			"data": {
+				"text": "Stabilisator en zoetstof. Komt van nature voor in verschillende soorten fruit, zoals appels, pruimen, kersen en druiven. Het wordt gemaakt uit glucose. Het wordt gebruikt om producten in een bepaalde toestand te houden of zoeter te maken. Het lijkt qua smaak erg op suiker en is half tot even zoet. Het levert geen calorieën. Ook wordt het gebruikt als vulstof om producten zoals kauwgom meer volume te geven. Als je er veel van eet of overgevoelig voor bent, kan het laxerend werken en er kan winderigheid of een opgeblazen gevoel optreden. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Chocolade",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E421",
+			"id": "cb5c2732-3abc-45d1-92fb-f47ba1f347cf",
+			"data": {
+				"text": "Antiklontermiddel en zoetstof. Komt van nature voor in verschillende planten, zoals coniferen, zeewier en paddenstoelen. Het wordt kunstmatig gemaakt uit glucose. Het wordt gebruikt in producten om klonteren tegen te gaan en om ze zoeter te maken. Het lijkt erg op suiker en is half tot even zoet. Het levert geen calorieën. Ook wordt het gebruikt als vulstof om producten meer volume te geven. Als je er veel van eet of overgevoelig voor bent, kan het laxerend werken en er kan winderigheid of een opgeblazen gevoel optreden. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Chocolade",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E422",
+			"id": "7dd429a1-7955-4084-bdf9-a1d7961fa0f7",
+			"data": {
+				"text": "Bevochtigingsmiddel en verdikkingsmiddel. Komt van nature voor als bestanddeel van dierlijke en plantaardige vetten en oliën en komt ook in ons lichaam voor. Het wordt gewonnen uit vetten en oliën, kunstmatig gemaakt door stoffen te bewerken of met behulp van een bacterie uit suikers. Het wordt gebruikt om producten te beschermen tegen uitdrogen of steviger te maken. Het kan ook gebruikt worden in biologische plantenextracten. Het kan gemaakt zijn door bewerking van dierlijke vetten. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. ",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E423",
+			"id": "4307cc56-c366-4469-afaf-0c41821c234f",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt met Arabische gom (E 414). De stof wordt gebruikt om vet en water te vermengen.",
+				"applications": ["Dranken met vruchtensap", "Energiedranken", "Glazuur", "Sauzen"]
+			}
+		},
+		{
+			"enumber": "E425",
+			"id": "837f1f8a-e260-488e-bf04-98bea089b182",
+			"data": {
+				"text": "Geleermiddel. Komt van nature voor in een bietensoort en wordt daar ook uit gewonnen. Het wordt gebruikt om producten steviger te maken.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E426",
+			"id": "08ee0e4f-278d-4dfb-bbdc-7ef593aa337b",
+			"data": {
+				"text": "Emulgator, stabilisator, draagstof, vulstof, antiklontermiddel en verdikkingsmiddel. Het is een extract van soja. Het wordt gebruikt om vet en water te mengen, om producten in een bepaalde toestand te houden, als hulpstof voor andere stoffen, om producten volume te geven of steviger te maken, en om klonteren tegen te gaan.",
+				"applications": [
+					"Frisdranken op zuivelbasis",
+					"Kant-en-klare rijst",
+					"Koek en gebak",
+					"Noedels",
+					"Sauzen",
+					"Snoep",
+					"Voedingssupplementen"
+				]
+			}
+		},
+		{
+			"enumber": "E427",
+			"id": "87c1e1f3-8911-4a67-8a5f-0bf5fa466454",
+			"data": {
+				"text": "Emulgator, stabilisator en verdikkingsmiddel. Komt van nature voor in de zaden van de plant Cassia obtusifoliaen wordt daar ook uit gewonnen. Het wordt gebruikt om vet en water te mengen, om producten in een bepaalde toestand te houden of steviger te maken.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Koek en gebak",
+					"Sauzen",
+					"Soep- en bouillonpoeder",
+					"Vlees",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E431",
+			"id": "049252cf-33d5-4ddc-a4b9-c4e516a2cb0b",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt. Het wordt gebruikt om vet en water te mengen. De stof bevat vetzuren, die vrijwel altijd afkomstig zijn van plantaardige oliën, maar soms wordt er dierlijk vet gebruikt, zoals varkensvet. Hierdoor is de stof in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": ["Wordt momenteel niet gebruikt in voedingsmiddelen"]
+			}
+		},
+		{
+			"enumber": "E432",
+			"id": "9177a63b-f270-4671-9976-31d3d17ab828",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door verschillende stoffen, waaronder vetzuren, te bewerken. De vetzuren zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet gebruikt, zoals varkensvet. Hierdoor is de stof in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Kokosmelk",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E433",
+			"id": "33068828-a1ed-4867-aa7c-a9112c02bd85",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door verschillende stoffen, waaronder vetzuren, te bewerken. De vetzuren zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet gebruikt, zoals varkensvet. Hierdoor is de stof in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Kokosmelk",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E434",
+			"id": "82e3dac9-fda4-41a6-906d-8815707ca6f7",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door verschillende stoffen, waaronder vetzuren, te bewerken. De vetzuren zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet gebruikt, zoals varkensvet. Hierdoor is de stof in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Kokosmelk",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E435",
+			"id": "402eecef-6c65-4a2f-bc55-b9d9f83fc2fd",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door verschillende stoffen, waaronder vetzuren, te bewerken. De vetzuren zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet gebruikt, zoals varkensvet. Hierdoor is de stof in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Kokosmelk",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E436",
+			"id": "4a826c23-c5b8-4730-828f-83356fa80f11",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door verschillende stoffen, waaronder vetzuren, te bewerken. De vetzuren zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet gebruikt, zoals varkensvet. Hierdoor is de stof in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Kokosmelk",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E440",
+			"id": "b43be931-b09d-456f-bdf9-b31ee499a489",
+			"data": {
+				"text": "Verdikkingsmiddel, emulgator en stabilisator. Komt van nature voor in vrijwel alle soorten fruit. Het wordt gewonnen uit appelpulp en sinaasappelschillen. Het wordt gebruikt om producten steviger te maken, om vet en water te mengen en om producten in een bepaalde toestand te houden. Als je veel pectinen eet, kan het verstoppend werken. Ook kan winderigheid optreden. Het kan ook gebruikt worden in biologische producten op basis van melk.",
+				"applications": [
+					"Ananassap",
+					"Brood",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E442",
+			"id": "e485fd40-31b1-4676-abe6-e5a5c19fb276",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt. Het wordt gebruikt om vet en water te mengen en om producten in een bepaalde toestand te houden. De stoffen bevatten vetzuren, die vrijwel altijd afkomstig zijn van plantaardige oliën, maar soms wordt dierlijk vet gebruikt, zoals varkensvet. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Chocolade"]
+			}
+		},
+		{
+			"enumber": "E444",
+			"id": "31f23972-690a-46fa-ad32-74b09ee76d86",
+			"data": {
+				"text": "Stabilisator. Wordt kunstmatig gemaakt. Het wordt gebruikt als emulgator, om producten in een bepaalde toestand te houden.",
+				"applications": ["Alcoholische dranken", "Frisdranken"]
+			}
+		},
+		{
+			"enumber": "E445",
+			"id": "9706a062-fad5-4318-ae4d-4c7e5170f443",
+			"data": {
+				"text": "Stabilisator en emulgator. Het is een combinatie van glycerol (E 422) en hars dat wordt gewonnen uit dennenbomen. Glycerol komt van nature voor als bestanddeel van dierlijke en plantaardige vetten en oliën en komt ook in ons lichaam voor. Het wordt gewonnen uit vetten en oliën, kunstmatig gemaakt door stoffen te bewerken of met behulp van een bacterie uit suikers. Glycerol kan gemaakt zijn door bewerking van dierlijke vetten. Hierdoor is de stof glycerolesters van houthars in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. De stof wordt gebruikt om producten in een bepaalde toestand te houden en om vet en water te mengen.",
+				"applications": ["Alcoholische dranken", "Frisdranken", "Op de schil van citrusvruchten", "Snoep"]
+			}
+		},
+		{
+			"enumber": "E450",
+			"id": "d1fa763a-2faf-4938-8e69-6c2fe2fa3f8d",
+			"data": {
+				"text": "Emulgator, stabilisator en complexvormer. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur met andere stoffen. Fosforzuur (E 338) komt van nature voor in veel soorten groente en fruit. Het wordt gemaakt uit fosfaaterts. Fosfaat komt van nature voor in ons lichaam. Fosforzuur en fosfaten mogen in alle voedingsmiddelen gebruikt worden. De <zoekterm> worden gebruikt om vet en water te mengen, om producten in een bepaalde toestand te houden, om metalen te binden en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E450",
+			"id": "b8d5fd6e-d4dd-4f4c-bd0d-db2a860e74ad",
+			"data": {
+				"text": "Rijsmiddel en zuurteregelaar. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur met andere stoffen. Fosforzuur (E 338) komt van nature voor in veel soorten groente en fruit. Het wordt gemaakt uit fosfaaterts. Fosfaat komt van nature voor in ons lichaam.",
+				"applications": ["Koek en gebak", "Noedels", "Pizzadeeg", "Zelfrijzend bakmeel"]
+			}
+		},
+		{
+			"enumber": "E451",
+			"id": "5abd887d-1510-4325-baf5-5b2391b6e606",
+			"data": {
+				"text": "Emulgator, stabilisator en complexvormer. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur met andere stoffen. Fosforzuur (E 338) komt van nature voor in veel soorten groente en fruit. Het wordt gemaakt uit fosfaaterts. Fosfaat komt van nature voor in ons lichaam. Fosforzuur en fosfaten mogen in alle voedingsmiddelen gebruikt worden. De <zoekterm> worden gebruikt om vet en water te mengen, om producten in een bepaalde toestand te houden, om metalen te binden en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E452",
+			"id": "06fa950b-8c08-4909-a798-24b99d2d2273",
+			"data": {
+				"text": "Emulgator, stabilisator en complexvormer. Fosfaten, waaronder <zoekterm>, zijn een combinatie van fosforzuur met andere stoffen. Fosforzuur (E 338) komt van nature voor in veel soorten groente en fruit. Het wordt gemaakt uit fosfaaterts. Fosfaat komt van nature voor in ons lichaam. Fosforzuur en fosfaten mogen in alle voedingsmiddelen gebruikt worden. De <zoekterm> worden gebruikt om vet en water te mengen, om producten in een bepaalde toestand te houden, om metalen te binden en als rijsmiddel.",
+				"applications": [
+					"Bloem",
+					"IJs",
+					"Koek en gebak",
+					"Mineraalwater",
+					"Oliën en vetten",
+					"Vlees",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E459",
+			"id": "9b123d08-e47e-49b2-a32e-0c354d5cd376",
+			"data": {
+				"text": "Draagstof, vulstof en antiklontermiddel. Wordt in levensmiddelen in tablet- of drageevorm gebruikt. Het wordt in producten gebruikt voor het oplossen van stoffen, om producten volume te geven en om klonteren tegen te gaan.",
+				"applications": ["Poeders voor dranken", "Snoep in tablet- of drageevorm", "Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E460",
+			"id": "68a80a58-6de9-44b5-b70c-e65fc17fa827",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Komt van nature voor als vezel in alle planten en wordt daar ook uit gewonnen. Het wordt vooral gebruikt om producten steviger te maken, maar ook om ze volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Gedroogde kruiden",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E461",
+			"id": "3ed53661-73a6-45f3-a905-c3546bd27f64",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Het wordt kunstmatig gemaakt met cellulose (E 460) waar vervolgens andere stoffen aan toegevoegd worden. Het wordt vooral gebruikt om producten steviger te maken, maar ook om ze volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E462",
+			"id": "29d1a804-c87a-4963-abff-a0b5c6695383",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Wordt kunstmatig gemaakt met cellulose (E 460). Het wordt vooral gebruikt om producten steviger te maken, maar ook om ze volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E463",
+			"id": "5610558b-672f-4900-9e96-0c35e79f6c56",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Wordt kunstmatig gemaakt met cellulose (E 460). Het wordt vooral gebruikt om producten steviger te maken, maar ook om volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E464",
+			"id": "0b4e87cf-b375-4ae0-a14a-9eae19908dd1",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Wordt kunstmatig gemaakt met cellulose (E 460). Het wordt vooral gebruikt om producten steviger te maken, maar ook om volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden. Het kan ook gebruikt worden voor biologische capsules.",
+				"applications": [
+					"Brood",
+					"Coderingen op citrusfruit",
+					"Frisdranken",
+					"Koek en gebak",
+					"Meloenen en granaatappels",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E465",
+			"id": "09939808-cf95-447e-b4df-954ab494be9d",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Wordt kunstmatig gemaakt met cellulose (E 460). Het wordt vooral gebruikt om producten steviger te maken, maar ook om volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden. ",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E466",
+			"id": "b8a7563a-6b93-4f24-b243-3878d714c9ce",
+			"data": {
+				"text": "Verdikkingsmiddel, vulstof, emulgator en antiklontermiddel. Wordt kunstmatig gemaakt met cellulose (E 460). Het wordt vooral gebruikt om producten steviger te maken, maar ook om volume te geven, klonteren tegen te gaan, als voedingsvezel en om vet en water te mengen. Als je er veel van eet, kan verstopping, diarree, krampen of winderigheid optreden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Traditionele Zweedse en Finse vruchtensiroop van citrusvruchten",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E468",
+			"id": "9a653e5f-4907-4d67-894f-a9ec6b6bb80d",
+			"data": {
+				"text": "Stabilisator, draagstof en verdikkingsmiddel. Wordt kunstmatig gemaakt met cellulose (E 460). Het wordt gebruikt om producten in een bepaalde toestand te houden, voor het oplossen van stoffen en om producten steviger te maken. Bij de productie van de stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": ["Voedingssupplementen", "Zoetjes"]
+			}
+		},
+		{
+			"enumber": "E469",
+			"id": "f3d809c4-584f-4e8f-ac6b-ac7f0738b2c5",
+			"data": {
+				"text": "Stabilisator, draagstof, vulstof en antiklontermiddel. Wordt gemaakt met carboxymethylcellulose, cellulosegom (E 466). Het wordt gebruikt om producten in een bepaalde toestand te houden, voor het oplossen van stoffen, om volume te geven en klonteren tegen te gaan.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E470a",
+			"id": "113ed340-b9a1-4740-9d7f-649ac5196c51",
+			"data": {
+				"text": "Emulgator en stabilisator. Zijn combinaties van vetzuren met andere stoffen. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt, zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt er dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Gedroogde kruiden",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E470b",
+			"id": "76bf9c19-c3c8-42ff-9945-2f89433da3dd",
+			"data": {
+				"text": "Emulgator en stabilisator. Zijn combinaties van vetzuren met andere stoffen. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt, zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt er dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E471",
+			"id": "09b8c65e-8d0d-4a88-b33b-9d5400c7243e",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door stoffen, waaronder vetzuren, te bewerken. De glyceriden worden gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snelkookrijst",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E472a",
+			"id": "4d45372b-8418-418e-a479-54ab2f71fc67",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422), azijnzuur (E 260) en vetzuren. Het komt ook van nature voor in ons lichaam. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snelkookrijst",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E472b",
+			"id": "805f5741-6316-4f83-bf1e-b06b38fe61ac",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422), melkzuur (E 270) en vetzuren. Het komt ook van nature voor in ons lichaam. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E472c",
+			"id": "77f8266e-34b9-422a-a918-a321a153ff96",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422), citroenzuur (E 330) en vetzuren. Het komt ook van nature voor in ons lichaam. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E472d",
+			"id": "aca320e7-47b2-4196-806b-9ecc7b15d230",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422), wijnsteenzuur (E 334)  en vetzuren. Het komt ook van nature voor in ons lichaam. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E472e",
+			"id": "d5c506d6-e26e-42e0-98a4-7d5559ac85c8",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422), wijnsteenzuur (E 334) en vetzuren. Het komt ook van nature voor in ons lichaam. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E472f",
+			"id": "eb6f2d45-e126-4b9d-a78d-612f864b927d",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422), azijnzuur (E 260) wijnsteenzuur (E 334) en vetzuren. Het komt ook van nature voor in ons lichaam. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E473",
+			"id": "db420974-6072-4818-8ba4-1abfd7ad1898",
+			"data": {
+				"text": "Emulgatoren en stabilisatoren. Wordt kunstmatig gemaakt met suiker, glycerol (E 422) en vetzuren. Deze stoffen komen ook van nature voor in ons lichaam. De sucrose-esters worden gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee de stoffen worden gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Alcoholische dranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E474",
+			"id": "e6acdec8-b954-4c70-bb12-7c5715d80109",
+			"data": {
+				"text": "Emulgatoren en stabilisatoren. Wordt kunstmatig gemaakt met suiker, glycerol (E 422) en vetzuren. Deze stoffen komen ook van nature voor in ons lichaam. Sucroglyceriden worden gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee de stoffen worden gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Alcoholische dranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E475",
+			"id": "dd37fbde-1465-47f8-9b00-ccd5fce1fa33",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422) en vetzuren. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Desserts",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Suikerwerk",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E476",
+			"id": "efbe8a8d-e731-480e-964e-fa28b73a02c6",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met glycerol (E 422) en vetten uit wonderolie. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. Wonderolie wordt gewonnen uit de boom Ricinus sp. Glycerol komt van nature voor als bestanddeel van dierlijke en plantaardige vetten en oliën en komt ook in ons lichaam voor. Het wordt gewonnen uit vetten en oliën, kunstmatig gemaakt door stoffen te bewerken of met behulp van een bacterie uit suikers. Glycerol kan gemaakt zijn door bewerking van dierlijke vetten. Hierdoor is E 476 in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. ",
+				"applications": ["Chocolade", "Oliën en vetten", "Sauzen"]
+			}
+		},
+		{
+			"enumber": "E477",
+			"id": "c096a3d5-2370-4ff6-869c-57d3d6b62129",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt met vetzuren. Het wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stoffen.",
+				"applications": [
+					"Desserts",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Suikerwerk",
+					"Vetten voor bakken",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E479b",
+			"id": "4066b87c-8ced-4898-b12f-5217b1c47aca",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door sojaolie te verwarmen samen met mono- en diglyceriden van vetzuren (E 471). De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Vetten om in te braden"]
+			}
+		},
+		{
+			"enumber": "E481",
+			"id": "1230e1b8-0565-4880-9b19-9e6943acf687",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door melkzuur (E 270) te mengen met vetzuren, onderdelen die ook van nature voorkomen in ons lichaam. De stof wordt gebruikt om water en vet te mengen. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Alcoholische dranken",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Snelkookrijst",
+					"Vlees in blik of glas",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E482",
+			"id": "69d1cb19-3045-45c9-a679-3b3fe800851b",
+			"data": {
+				"text": "Emulgator. Wordt kunstmatig gemaakt door melkzuur (E 270) te mengen met vetzuren, onderdelen die ook van nature voorkomen in ons lichaam. De stof wordt gebruikt om water en vet te mengen. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Alcoholische dranken",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Ontbijtgranen",
+					"Snelkookrijst",
+					"Vlees in blik of glas",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E483",
+			"id": "7010b520-9a44-4221-97ae-a75e586a15b0",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door wijnsteenzuur (E 334) te mengen met een vetzuur, onderdelen die ook van nature voorkomen in ons lichaam. De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Brood", "Desserts", "Koek en gebak", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E491",
+			"id": "a43ddb7a-d629-48d5-b5e5-ec19e2e20fb9",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door sorbitol (E 420) te mengen met vetzuren. De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet  gebruikt. Hierdoor is het niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Gist",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E492",
+			"id": "8c6907f9-56ca-46fb-aa3b-8080f4b11077",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door sorbitol (E 420) te mengen met vetzuren. De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet  gebruikt. Hierdoor is het niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Gist",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E493",
+			"id": "cb38a39f-4f3c-4601-9f45-23ed1f9d3474",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door sorbitol (E 420) te mengen met vetzuren. De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet  gebruikt. Hierdoor is het niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Gist",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E494",
+			"id": "e0e66b8b-0638-4d85-a0e6-72b3bcaf4a09",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door sorbitol (E 420) te mengen met vetzuren. De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet  gebruikt. Hierdoor is het niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Gist",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E495",
+			"id": "5bf50f4a-c0ac-4e18-8f5c-dc9ac697aa4b",
+			"data": {
+				"text": "Emulgator en stabilisator. Wordt kunstmatig gemaakt door sorbitol (E 420) te mengen met vetzuren. De stof wordt gebruikt om water en vet te mengen en om producten in een bepaalde toestand te houden. De vetzuren waarmee het wordt gemaakt zijn vrijwel altijd afkomstig van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet  gebruikt. Hierdoor is het niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Gist",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Oliën en vetten",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E499",
+			"id": "e1c2b8d1-d4f3-4cc9-9804-ec116ec63e51",
+			"data": {
+				"text": "Stabilisator. Wordt kunstmatig gemaakt uit sojaolie. Het wordt gebruikt om producten in een bepaalde toestand te houden.",
+				"applications": ["Alcoholische dranken"]
+			}
+		},
+		{
+			"enumber": "E500",
+			"id": "a92f5215-8546-45d6-82a0-e495c81509c6",
+			"data": {
+				"text": "Zuurteregelaars, rijsmiddelen en stabilisatoren. Komen van nature voor als mineraal in gesteente en zeewater en worden daar ook uit gewonnen. Ze worden vooral gebruikt om de zuurtegraad in producten zoals yoghurt te reguleren, maar ook om deeg te laten rijzen en om producten in een bepaalde toestand te houden. Het kan ook gebruikt worden in biologische Dulce de leche, biologische zureroomboter en biologische zuremelkkaas.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E501",
+			"id": "9ca4ba9a-4e78-44dc-adb5-38d9ec74c7ac",
+			"data": {
+				"text": "Zuurteregelaars, rijsmiddelen en stabilisatoren. Worden gemaakt uit een natuurlijk mineraal. Ze worden vooral gebruikt om de zuurtegraad in producten te reguleren, maar ook om deeg te laten rijzen en om producten in een bepaalde toestand te houden. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E503",
+			"id": "74e416a7-30bb-4690-b307-58ecb9250933",
+			"data": {
+				"text": "Zuurteregelaars en rijsmiddelen. Worden gemaakt uit natuurlijke mineralen. Ze worden vooral gebruikt om de zuurtegraad in producten te reguleren, maar ook om deeg te laten rijzen. Kunnen ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E504",
+			"id": "1c066739-34d0-4e07-b28c-4cd7943c77ef",
+			"data": {
+				"text": "Zuurteregelaars en antiklontermiddelen. Worden gemaakt uit een natuurlijk mineraal, maar komen zelf ook voor als natuurlijk mineraal. Ze worden vooral gebruikt om de zuurtegraad in producten te reguleren, maar ook om klonteren tegen te gaan. Als je er veel van eet, kan het laxerend werken. Kunnen ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E507",
+			"id": "1f93aed6-a682-4238-bc19-61934230cfbc",
+			"data": {
+				"text": "Zuurteregelaar. Wordt gemaakt uit zout en zwavelzuur (E 513). De stof komt ook van nature voor in ons lichaam als maagzuur. Het wordt gebruikt om de zuurtegraad in producten te reguleren.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor\npeuters",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E508",
+			"id": "8296aaae-d11b-4821-b24f-d7736598478f",
+			"data": {
+				"text": "Verstevigingsmiddel en smaakversterker. Komt van nature voor als onderdeel van bijvoorbeeld zeezout. Het wordt gebruikt om producten te verstevigen en om de bestaande smaak van producten te versterken.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E509",
+			"id": "648432e1-eb17-4223-94b4-2502e3f4edea",
+			"data": {
+				"text": "Zuurteregelaar, complexvormer en verstevigingsmiddel. Komt van nature voor als onderdeel van bijvoorbeeld zeezout. Het wordt gebruikt om de zuurtegraad van producten te reguleren, om metalen te binden en groente en fruit te verstevigen. Het kan ook gebruikt worden in biologische melk.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groenten of fruit in blik of glas",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E511",
+			"id": "3cc843b8-3cc6-4924-a343-c520d8909999",
+			"data": {
+				"text": "Zuurteregelaar. Komt van nature voor als onderdeel van bijvoorbeeld zeezout. Het wordt onder andere gemaakt uit zoutzuur (E 507). Het wordt gebruikt om de zuurtegraad van producten te reguleren. Het kan laxerend werken.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zeezout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E512",
+			"id": "5b6b0be2-bbe8-4c8c-9dfa-f1c6ea10df14",
+			"data": {
+				"text": "Stabilisator. Wordt gemaakt uit tinerts en zoutzuur (E 507). Het wordt gebruikt om kleurverandering van asperges in blik of glas tegen te gaan.",
+				"applications": ["Witte asperges in blik of glas"]
+			}
+		},
+		{
+			"enumber": "E513",
+			"id": "49e7e451-63a6-4f5f-a8e1-a6a261f4c94e",
+			"data": {
+				"text": "Zuurteregelaar. Het is een zuur dat voorkomt in de natuur, bijvoorbeeld in water en gesteente. Het wordt gemaakt uit zwaveldioxide (E 220), zuurstof en water. Het wordt gebruikt om de zuurtegraad van producten te reguleren.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E514",
+			"id": "31b8dbb6-ea49-4b8b-9a5b-724600da62c7",
+			"data": {
+				"text": "Zuurteregelaar, verstevigingsmiddel, draagstof, vulstof en antiklontermiddel. Sulfaten komen in de natuur voor, bijvoorbeeld in gesteente. Natriumsulfaten zijn combinaties van zwavelzuur (E 513) met andere stoffen. Ze worden gebruikt om de zuurtegraad van producten te reguleren, producten te verstevigen, voor het oplossen van stoffen, om volume te geven en om klonteren tegen te gaan. Ze kunnen laxerend werken.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E515",
+			"id": "50d4a33c-1a42-46b3-91fe-9701fa975461",
+			"data": {
+				"text": "Zuurteregelaar, verstevigingsmiddel, draagstof, vulstof en antiklontermiddel. Sulfaten komen in de natuur voor, bijvoorbeeld in gesteente. Kaliumsulfaten zijn combinaties van zwavelzuur (E 513) met andere stoffen. Ze worden gebruikt om de zuurtegraad van producten te reguleren, producten te verstevigen, voor het oplossen van stoffen, om volume te geven en om klonteren tegen te gaan. Ze kunnen laxerend werken.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E516",
+			"id": "3f6181cb-f1d4-4895-9a7a-123298d2118f",
+			"data": {
+				"text": "Zuurteregelaar, verstevigingsmiddel, meelverbeteraar, complexvormer en stabilisator.  Sulfaten komen in de natuur voor, bijvoorbeeld in gesteente. Calciumsulfaat is een combinatie van zwavelzuur (E 513) met andere stoffen. Het wordt gebruikt om de zuurtegraad van producten te reguleren, producten te verstevigen, om de eigenschappen van meel te verbeteren, metalen te binden en producten in een bepaalde toestand te houden. Het kan laxerend werken. Het kan ook gebruikt worden als draagstof in biologische producten.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E517",
+			"id": "efae1584-0441-42bd-bc2f-ae0859c74cfa",
+			"data": {
+				"text": "Stabilisator en draagstof. Sulfaten komen in de natuur voor, bijvoorbeeld in gesteente. Ammoniumsulfaat is een combinatie van zwavelzuur (E 513) met andere stoffen. Het wordt op zichzelf niet in voedingsmiddelen gebruikt, alleen in combinatie met andere E-nummers. Het wordt gebruikt om producten in een bepaalde toestand te houden en om andere stoffen op te lossen. Het kan laxerend werken.",
+				"applications": ["Wordt op zichzelf niet in voedingsmiddelen gebruikt"]
+			}
+		},
+		{
+			"enumber": "E520",
+			"id": "2cdb3519-ad87-4a5b-b878-ece3db2a9bb3",
+			"data": {
+				"text": "Verstevigingsmiddel. Aluminiumsulfaat wordt gewonnen uit een natuurlijk mineraal. Wordt gebruikt om producten te verstevigen.",
+				"applications": ["Gekonfijte kersen", "Vloeibaar eiwit voor eierschuim"]
+			}
+		},
+		{
+			"enumber": "E521",
+			"id": "30628e2e-71f8-4275-b686-901fd072b02b",
+			"data": {
+				"text": "Verstevigingsmiddel. <zoekterm> wordt gewonnen uit aluminiumsulfaat (E 520). Wordt gebruikt om producten te verstevigen.",
+				"applications": ["Gekonfijte kersen", "Vloeibaar eiwit voor eierschuim"]
+			}
+		},
+		{
+			"enumber": "E522",
+			"id": "b846d460-44df-4dc3-aace-7c22521ee9a5",
+			"data": {
+				"text": "Verstevigingsmiddel. <zoekterm> wordt gewonnen uit aluminiumsulfaat (E 520). Wordt gebruikt om producten te verstevigen.",
+				"applications": ["Gekonfijte kersen", "Vloeibaar eiwit voor eierschuim"]
+			}
+		},
+		{
+			"enumber": "E523",
+			"id": "c2f1c54d-c74f-46eb-b031-c78e9b4a3df3",
+			"data": {
+				"text": "Verstevigingsmiddel. <zoekterm> wordt gewonnen uit aluminiumsulfaat (E 520). Wordt gebruikt om producten te verstevigen.",
+				"applications": ["Gekonfijte kersen", "Vloeibaar eiwit voor eierschuim"]
+			}
+		},
+		{
+			"enumber": "E524",
+			"id": "6e5ee2ed-8f83-4d2b-823b-d9d26a14ec07",
+			"data": {
+				"text": "Zuurteregelaar. Ook wel bekend als natronloog. Het wordt gewonnen uit zout. Het wordt gebruikt om de zuurtegraad in producten te reguleren. Het kan ook gebruikt worden in biologisch Laugengebäck.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Jam",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E525",
+			"id": "1df534b1-4462-4c74-a36b-d98b5e32ff82",
+			"data": {
+				"text": "Zuurteregelaar. Ook wel bekend als kaliloog. Het wordt gewonnen uit kaliumchloride (E 508). Het wordt gebruikt om de zuurtegraad in producten te reguleren.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E526",
+			"id": "5d7be48f-6d67-4ad6-be77-b2e5f6efada4",
+			"data": {
+				"text": "Zuurteregelaar. Wordt gewonnen uit calciumoxide (E 529). Het wordt gebruikt om de zuurtegraad in producten te reguleren.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuigelingenvoeding",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E527",
+			"id": "53d336fb-2412-45e1-b97b-36ca9d919028",
+			"data": {
+				"text": "Zuurteregelaar. Wordt gemaakt uit water in combinatie met een gas (ammoniak). Het wordt gebruikt om de zuurtegraad in producten te reguleren.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E528",
+			"id": "884c7631-1aa1-49be-8001-ba7afceef4fc",
+			"data": {
+				"text": "Zuurteregelaar. Wordt gewonnen uit mineralen die aluminium bevatten. Het wordt gebruikt om de zuurtegraad in producten te reguleren. Als je er veel van eet kan het laxerend werken.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E529",
+			"id": "fb94bd34-bef7-43dc-b2c6-625d1863d816",
+			"data": {
+				"text": "Zuurteregelaar. Wordt gewonnen uit kalksteen. Het is ook wel bekend als gebrande kalk. Het wordt gebruikt om de zuurtegraad in producten te reguleren.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E530",
+			"id": "841d0212-d342-4ad8-baa0-49204d6152da",
+			"data": {
+				"text": "Zuurteregelaar en antiklontermiddel. Wordt gewonnen uit mineralen die magnesium  bevatten. Het wordt gebruikt om de zuurtegraad in producten te reguleren en om klonteren tegen te gaan. Als je er veel van eet kan het laxerend werken.",
+				"applications": [
+					"Brood",
+					"Chocolade",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zout",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E535",
+			"id": "29b91e43-a375-469a-82b4-171315b67ed4",
+			"data": {
+				"text": "Complexvormer en antiklontermiddel. Wordt onder andere gewonnen uit natriumhydroxide (E 524). Het wordt gebruikt om metalen te binden en klonteren tegen te gaan.",
+				"applications": ["Zout", "Zoutvervangers"]
+			}
+		},
+		{
+			"enumber": "E536",
+			"id": "6f920a81-e40a-4a9f-9194-7d12da9f8964",
+			"data": {
+				"text": "Complexvormer en antiklontermiddel. Wordt onder andere gewonnen uit kaliumhydroxide (E 525). Het wordt gebruikt om metalen te binden en klonteren tegen te gaan.",
+				"applications": ["Zout", "Zoutvervangers"]
+			}
+		},
+		{
+			"enumber": "E538",
+			"id": "50f9755f-e283-4fb8-9e6a-d8b015f1b59f",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit onder andere calciumhydroxide (E 526). Het wordt gebruikt om klonteren tegen te gaan.",
+				"applications": ["Zout", "Zoutvervangers"]
+			}
+		},
+		{
+			"enumber": "E541",
+			"id": "3ee4c2b4-eb67-46dc-a6b7-8eafc7523bda",
+			"data": {
+				"text": "Rijsmiddel. Wordt kunstmatig gemaakt door fosforzuur (E 338), aluminium (E 173) en natriumhydroxide (E 524) te mengen. Het wordt gebruikt om cakebeslag te laten rijzen.",
+				"applications": ["Cake"]
+			}
+		},
+		{
+			"enumber": "E551",
+			"id": "b3f2b648-0a30-4211-a264-57a9a1b14953",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit zand en gesteente. Het wordt in poedervormige levensmiddelen gebruikt. Het wordt gebruikt om klonteren tegen te gaan en om schuimen te voorkomen. <zoekterm> wordt ook gebruikt als anti-klontermiddel in biologische kruiden en specerijen. ",
+				"applications": ["Kaas", "Kruiden", "Melkpoeder", "Snoep", "Vetten", "Voedingssupplementen", "Zoetjes", "Zout"]
+			}
+		},
+		{
+			"enumber": "E552",
+			"id": "5ec89d09-6161-4f61-878b-4812254bccf8",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit zand en gesteente. Silicaten, waaronder <zoekterm>, worden in poedervormige levensmiddelen gebruikt. Ze worden gebruikt om klonteren tegen te gaan en om schuimen te voorkomen. ",
+				"applications": ["Kaas", "Kruiden", "Melkpoeder", "Snoep", "Vetten", "Voedingssupplementen", "Zoetjes", "Zout"]
+			}
+		},
+		{
+			"enumber": "E553a",
+			"id": "26d07170-028d-4c04-b11b-eadf088fa798",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit zand en gesteente. Silicaten, waaronder <zoekterm>, worden in poedervormige levensmiddelen gebruikt. Ze worden gebruikt om klonteren tegen te gaan en om schuimen te voorkomen. ",
+				"applications": ["Kaas", "Kruiden", "Melkpoeder", "Snoep", "Vetten", "Voedingssupplementen", "Zoetjes", "Zout"]
+			}
+		},
+		{
+			"enumber": "E553b",
+			"id": "217478db-3d36-4fc6-89fe-f020702078d5",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit zand en gesteente. Silicaten, waaronder <zoekterm>, worden in poedervormige levensmiddelen gebruikt. Het wordt gebruikt om klonteren tegen te gaan en om schuimen te voorkomen. Het kan ook gebruikt worden in biologische vleesproducten. ",
+				"applications": ["Kaas", "Kruiden", "Melkpoeder", "Snoep", "Vetten", "Voedingssupplementen", "Zoetjes", "Zout"]
+			}
+		},
+		{
+			"enumber": "E554",
+			"id": "3e5083d4-6350-4626-874d-638267e59913",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit diverse mineralen. Het wordt gebruikt om klonteren tegen te gaan.",
+				"applications": ["Zout voor op de buitenkant van kaas"]
+			}
+		},
+		{
+			"enumber": "E555",
+			"id": "042831a4-d387-44b4-89b1-66e25a3193fb",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gewonnen uit diverse mineralen. Het wordt op zichzelf niet in voedingsmiddelen gebruikt, alleen in combinatie met andere E-nummers. Het wordt gebruikt om klonteren tegen te gaan en ook om andere stoffen op te lossen.",
+				"applications": ["Wordt op zichzelf niet in voedingsmiddelen gebruikt"]
+			}
+		},
+		{
+			"enumber": "E570",
+			"id": "a898dff4-db3c-4610-918e-5442df1e1df0",
+			"data": {
+				"text": "Antiklontermiddel. Wordt voornamelijk uit plantaardige olie gewonnen. Vetzuren worden gebruikt om klonteren tegen te gaan. Het kan ook gebruikt worden als emulgator om vet en water te mengen en als glansmiddel. De vetzuren zijn vrijwel altijd afkomstig  van plantaardige oliën, maar soms wordt dierlijk vet zoals varkensvet gebruikt. Hierdoor is het in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E574",
+			"id": "4b86a387-cfb1-4e2a-84f4-b4b00e533e0b",
+			"data": {
+				"text": "Complexvormer. Wordt kunstmatig gemaakt door stoffen te bewerken of met behulp van schimmels uit suiker. Het wordt gebruikt in producten om metalen te binden.",
+				"applications": ["Brood", "Frisdranken", "Koek en gebak", "Snacks", "Voedingssupplementen", "Zuivelproducten"]
+			}
+		},
+		{
+			"enumber": "E575",
+			"id": "897e73d4-4dca-4b2e-89f9-f2ff1b8cc234",
+			"data": {
+				"text": "Complexvormer. Wordt kunstmatig gemaakt door stoffen te bewerken of met behulp van bacteriën uit suiker. Het wordt gebruikt in producten om metalen te binden.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Groente en fruit in blik of glas",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E576",
+			"id": "50800f95-41d2-42cd-877d-5340b1655214",
+			"data": {
+				"text": "Complexvormer. Is een combinatie van gluconzuur (E 574) met andere stoffen. Het wordt gebruikt in  producten om metalen te binden. Het wordt ook wel gebruikt als voedingsstof voor gist.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E577",
+			"id": "5b0343b9-5a56-4a38-8f4e-f8095a3a4310",
+			"data": {
+				"text": "Complexvormer. Is een combinatie van gluconzuur (E 574) met andere stoffen. Het wordt gebruikt in  producten om metalen te binden. Het wordt ook wel gebruikt als voedingsstof voor gist.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E578",
+			"id": "f36ca2b3-a5a6-4638-a356-bb77287ba47f",
+			"data": {
+				"text": "Complexvormer. Is een combinatie van gluconzuur (E 574) met andere stoffen. Het wordt gebruikt in  producten om metalen te binden. Het wordt ook gebruikt om producten te verstevigen en de zuurtegraad te regelen.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E579",
+			"id": "26860208-85e4-4aff-9115-f3ad65ff81c1",
+			"data": {
+				"text": "Stabilisator. Het wordt gemaakt met gluconzuur (E 574). Het wordt gebruikt om de kleur van groene olijven die kunstmatig zwart zijn gemaakt, te behouden.",
+				"applications": ["Donkere olijven"]
+			}
+		},
+		{
+			"enumber": "E585",
+			"id": "03d35872-649a-45a8-a368-97f5274a54e4",
+			"data": {
+				"text": "Stabilisator. Het wordt gemaakt met melkzuur (E 270). Het wordt gebruikt om de kleur van groene olijven die kunstmatig zwart zijn gemaakt, te behouden.",
+				"applications": ["Donkere olijven"]
+			}
+		},
+		{
+			"enumber": "E586",
+			"id": "f894afd0-f484-478a-86c2-b2eb3d36cc35",
+			"data": {
+				"text": "Antioxidant. Wordt kunstmatig gemaakt. Het wordt gebruikt om te voorkomen dat schaaldieren bruin verkleuren.",
+				"applications": ["Schaaldieren"]
+			}
+		},
+		{
+			"enumber": "E620",
+			"id": "c889f8e0-f053-48fa-961c-39ea637b3795",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in oude kaas, moedermelk, tomaten en sardientjes. Glutaminezuur is een aminozuur. Aminozuren komen ook veel in je lichaam voor. Ze zitten in eiwitten in je lichaam, maar ook in dierlijke producten zoals varkensvlees, rundvlees, kip en vis. Het glutaminezuur dat in voedingsmiddelen wordt gebruikt, wordt gemaakt met behulp van bacteriën. Glutaminezuur heeft de speciale umamismaak en wordt gebruikt om de hartige smaak van producten te versterken, waardoor minder zout nodig is. Hoewel de naam een relatie met gluten suggereert bevat de stoffen geen gluten. Producten waarin deze stof verwerkt kan zijn, kunnen dus gebruikt worden door mensen met een overgevoeligheid voor gluten. ",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E621",
+			"id": "5fac348b-0cdb-4065-bc80-c899be28462c",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in oude kaas, moedermelk, tomaten en sardientjes. Glutamaten, waaronder <zoekterm>, zijn combinaties van glutaminezuur (E 620) met andere stoffen. Glutaminezuur is een aminozuur. Aminozuren komen ook veel in je lichaam voor. Ze zitten in eiwitten in je lichaam, maar ook in dierlijke producten zoals varkensvlees, rundvlees, kip en vis. Het glutaminezuur dat in voedingsmiddelen wordt gebruikt, wordt gemaakt met behulp van bacteriën. Glutaminezuur en glutamaten hebben de speciale umamismaak en wordt gebruikt om de hartige smaak van producten te versterken, waardoor minder zout nodig is. Hoewel de naam een relatie met gluten suggereert bevat de stoffen geen gluten. Producten waarin deze stof verwerkt kan zijn, kunnen dus gebruikt worden door mensen met een overgevoeligheid voor gluten. Bij de productie van mononatriumglutamaat (E 621) kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E622",
+			"id": "0f0e8448-4894-4d5b-b835-03d8c990ed61",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in oude kaas, moedermelk, tomaten en sardientjes. Glutamaten, waaronder <zoekterm>, zijn combinaties van glutaminezuur (E 620) met andere stoffen. Glutaminezuur is een aminozuur. Aminozuren komen ook veel in je lichaam voor. Ze zitten in eiwitten in je lichaam, maar ook in dierlijke producten zoals varkensvlees, rundvlees, kip en vis. Het glutaminezuur dat in voedingsmiddelen wordt gebruikt, wordt gemaakt met behulp van bacteriën. Glutaminezuur en glutamaten hebben de speciale umamismaak en wordt gebruikt om de hartige smaak van producten te versterken, waardoor minder zout nodig is. Hoewel de naam een relatie met gluten suggereert bevat de stoffen geen gluten. Producten waarin deze stof verwerkt kan zijn, kunnen dus gebruikt worden door mensen met een overgevoeligheid voor gluten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E623",
+			"id": "c530184e-180c-4bf6-90cd-ab1cd44819bf",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in oude kaas, moedermelk, tomaten en sardientjes. De glutamaten, waaronder <zoekterm>, zijn combinaties van glutaminezuur (E 620) met andere stoffen. Glutaminezuur is een aminozuur. Aminozuren komen ook veel in je lichaam voor. Ze zitten in eiwitten in je lichaam, maar ook in dierlijke producten zoals varkensvlees, rundvlees, kip en vis. Het glutaminezuur dat in voedingsmiddelen wordt gebruikt, wordt gemaakt met behulp van bacteriën. Glutaminezuur en glutamaten hebben de speciale umamismaak en wordt gebruikt om de hartige smaak van producten te versterken, waardoor minder zout nodig is. Hoewel de naam een relatie met gluten suggereert bevat de stoffen geen gluten. Producten waarin deze stof verwerkt kan zijn, kunnen dus gebruikt worden door mensen met een overgevoeligheid voor gluten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E624",
+			"id": "e4704c86-f93a-424a-ae27-3ed184bf13cf",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in oude kaas, moedermelk, tomaten en sardientjes. Glutamaten, waaronder <zoekterm>, zijn combinaties van glutaminezuur (E 620) met andere stoffen. Glutaminezuur is een aminozuur. Aminozuren komen ook veel in je lichaam voor. Ze zitten in eiwitten in je lichaam, maar ook in dierlijke producten zoals varkensvlees, rundvlees, kip en vis. Het glutaminezuur dat in voedingsmiddelen wordt gebruikt, wordt gemaakt met behulp van bacteriën. Glutaminezuur en glutamaten hebben de speciale umamismaak en wordt gebruikt om de hartige smaak van producten te versterken, waardoor minder zout nodig is. Hoewel de naam een relatie met gluten suggereert bevat de stoffen geen gluten. Producten waarin deze stof verwerkt kan zijn, kunnen dus gebruikt worden door mensen met een overgevoeligheid voor gluten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E625",
+			"id": "63959dab-38d9-4f2a-9070-19f9fc830620",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in oude kaas, moedermelk, tomaten en sardientjes. De glutamaten, waaronder <zoekterm>, zijn combinaties van glutaminezuur (E 620) met andere stoffen. Glutaminezuur is een aminozuur. Aminozuren komen ook veel in je lichaam voor. Ze zitten in eiwitten in je lichaam, maar ook in dierlijke producten zoals varkensvlees, rundvlees, kip en vis. Het glutaminezuur dat in voedingsmiddelen wordt gebruikt, wordt gemaakt met behulp van bacteriën. Glutaminezuur en glutamaten hebben de speciale umamismaak en wordt gebruikt om de hartige smaak van producten te versterken, waardoor minder zout nodig is. Hoewel de naam een relatie met gluten suggereert bevat de stoffen geen gluten. Producten waarin deze stof verwerkt kan zijn, kunnen dus gebruikt worden door mensen met een overgevoeligheid voor gluten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E626",
+			"id": "1c36d8d6-ab80-4126-b667-901227a615ee",
+			"data": {
+				"text": "Smaakversterker. <zoekterm> komt van nature voor in DNA en dus in alle cellen van elk levend wezen. Het wordt gewonnen uit gistextract en soms uit sardientjes. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E627",
+			"id": "11449684-a73f-4782-ae35-4457bf5205a8",
+			"data": {
+				"text": "Smaakversterker. Guanylaten, waaronder <zoekterm>, zijn combinaties van guanylzuur (E 626) met andere stoffen. Guanylzuur komt van nature voor in DNA en dus in alle cellen van elk levend wezen. Het wordt gewonnen uit gistextract en soms uit sardientjes. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E628",
+			"id": "abcc219c-2d1e-408c-99ae-8629dfb2184e",
+			"data": {
+				"text": "Smaakversterker. Guanylaten, waaronder <zoekterm>, zijn combinaties van guanylzuur (E 626) met andere stoffen. Guanylzuur komt van nature voor in DNA en dus in alle cellen van elk levend wezen. Het wordt gewonnen uit gistextract en soms uit sardientjes. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E629",
+			"id": "9da32029-3670-4873-9155-5709023d8d71",
+			"data": {
+				"text": "Smaakversterker. Guanylaten, waaronder <zoekterm>, zijn combinaties van guanylzuur (E 626) met andere stoffen. Guanylzuur komt van nature voor in DNA en dus in alle cellen van elk levend wezen. Het wordt gewonnen uit gistextract en soms uit sardientjes. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E630",
+			"id": "c7320a54-fb2a-46c0-95d1-4e224d9c03fe",
+			"data": {
+				"text": "Smaakversterker. Wordt gewonnen uit vlees en sardientjes. Het wordt ook wel gemaakt door een bacterie uit suiker. Het wordt gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E631",
+			"id": "f54a1a6a-fb1c-427a-8dd1-6e859a359de2",
+			"data": {
+				"text": "Smaakversterker. Inosinaten, waaronder <zoekterm>, zijn combinaties van inosinezuur (E 630) met andere stoffen. Inosinezuur wordt gewonnen uit vlees en sardientjes. Het wordt ook wel gemaakt door een bacterie uit suiker. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E632",
+			"id": "4ae74423-065b-4fc9-a77b-9d3576dfa734",
+			"data": {
+				"text": "Smaakversterker. Inosinaten, waaronder <zoekterm>, zijn combinaties van inosinezuur (E 630) met andere stoffen. Inosinezuur wordt gewonnen uit vlees en sardientjes. Het wordt ook wel gemaakt door een bacterie uit suiker. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E633",
+			"id": "9f28e360-7589-4162-8672-4dc6b01e92d9",
+			"data": {
+				"text": "Smaakversterker. Inosinaten, waaronder <zoekterm>, zijn combinaties van inosinezuur (E 630) met andere stoffen. Inosinezuur wordt gewonnen uit vlees en sardientjes. Het wordt ook wel gemaakt door een bacterie uit suiker. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E634",
+			"id": "4db50ba1-5d70-4158-af44-2be6fd65175f",
+			"data": {
+				"text": "Smaakversterker. <zoekterm> is een combinatie van guanylaten en inosinaten. Guanylaten en inosinaten zijn op hun beurt weer combinaties van guanylzuur (E 626) en inosinezuur (E 630) met andere stoffen. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E635",
+			"id": "d2279238-0561-45af-a51b-f3a65c93cf92",
+			"data": {
+				"text": "Smaakversterker. <zoekterm> is een combinatie van guanylaten en inosinaten. Guanylaten en inosinaten zijn op hun beurt weer combinaties van guanylzuur (E 626) en inosinezuur (E 630) met andere stoffen. <zoekterm> valt onder de ribonucleotiden. Deze worden gebruikt om de umamismaak van producten te versterken, waardoor veel minder zout nodig is. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof. Omdat deze stof soms gewonnen worden uit dierlijke producten, is deze in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Kruiden",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoutvervangers",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E640",
+			"id": "93e0ccdf-6631-4e73-9ef9-c4565d68c3e2",
+			"data": {
+				"text": "Smaakversterker. Komt van nature voor in eiwitten in je lichaam, maar ook in dierlijke producten zoals vlees. Het wordt kunstmatig gemaakt uit gelatine en slachtafval. Het wordt gebruikt om de zoete smaak van producten te versterken en een zoute, zure of bittere smaak te remmen. Aangezien het wordt gemaakt uit dierlijke producten is het niet geschikt voor veganisten, vegetariërs en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E650",
+			"id": "6635e7a0-f52f-44d9-8a0e-72cfed674251",
+			"data": {
+				"text": "Smaakversterker. Zink is een spoorelement en komt van nature voor in vlees, kaas, graanproducten, noten en schaal- en schelpdieren. Het wordt kunstmatig gemaakt door stoffen te bewerken. Het wordt gebruikt om kauwgom een wrange smaak te geven en remt een zoete of bittere smaak.",
+				"applications": ["Kauwgom"]
+			}
+		},
+		{
+			"enumber": "E900",
+			"id": "b5b184ea-27c3-437a-b33a-4b2f34f2be94",
+			"data": {
+				"text": "Antischuimmiddel. Wordt kunstmatig gemaakt door stoffen te bewerken. Het wordt gebruikt om te voorkomen dat producten gaan schuimen tijdens de bereiding of het gebruik.",
+				"applications": [
+					"Ananassap",
+					"Bakolie- en vet",
+					"Frisdranken",
+					"Groente en fruit in blik of glas",
+					"Jam",
+					"Kauwgom",
+					"Snoep",
+					"Soepen"
+				]
+			}
+		},
+		{
+			"enumber": "E901",
+			"id": "7578e8b1-873a-452e-9c3f-8546e4c6b7b2",
+			"data": {
+				"text": "Glansmiddel. Wordt gemaakt door bijen. Witte bijenwas is gebleekte gele bijenwas. De stof wordt gebruikt om producten een glanzend laagje te geven. Het wordt ook gebruikt als basis voor kauwgom. De stof bevat geen bijen, maar sommige veganisten willen deze stof toch liever mijden.",
+				"applications": [
+					"Chocolade",
+					"IJswafels",
+					"Kauwgom",
+					"Koffiebonen",
+					"Op de schil van vruchten",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen"
+				]
+			}
+		},
+		{
+			"enumber": "E902",
+			"id": "5999e2da-e708-4a3e-bd40-981c103c5372",
+			"data": {
+				"text": "Glansmiddel. Komt van nature voor in diverse bomen die groeien in Mexico (Euphorbia antisyphilitica, E.  cerifera en Pedilanthus pavonis) en wordt daar ook uit gewonnen. De stof wordt gebruikt om producten een glanzend laagje te geven. Het wordt ook gebruikt als basis voor kauwgom.",
+				"applications": [
+					"Chocolade",
+					"Kauwgom",
+					"Koek en gebak",
+					"Koffiebonen",
+					"Noten",
+					"Op de schil van vruchten",
+					"Snacks",
+					"Snoep"
+				]
+			}
+		},
+		{
+			"enumber": "E903",
+			"id": "318f32fd-224f-4014-ba89-b805eb0abab8",
+			"data": {
+				"text": "Glansmiddel. Komt van nature voor in diverse palmen die groeien in Brazilië (Copernica cerifera en aanverwante soorten) en wordt daar ook uit gewonnen. De stof wordt gebruikt om producten een glanzend laagje te geven. Het wordt ook gebruikt als basis voor kauwgom. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Buitenkant van gekleurde eieren",
+					"Chocolade",
+					"Koffiebonen",
+					"Noten",
+					"Op de schil van vruchten",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen"
+				]
+			}
+		},
+		{
+			"enumber": "E904",
+			"id": "b75b5be5-1356-431f-b29e-e44654ff4998",
+			"data": {
+				"text": "Glansmiddel. Het wordt gemaakt door diverse luizen die in India voorkomen en wordt daar ook van gewonnen. De stof wordt gebruikt om producten een glanzend laagje te geven. Het wordt ook gebruikt als basis voor kauwgom. Gedurende de productie bevat de stof vaak nog resten van de luizen, daarom willen sommige veganisten deze stof mijden.",
+				"applications": [
+					"Buitenkant van gekookte en ongepelde eieren",
+					"Chocolade",
+					"Kauwgom",
+					"Koek en gebak",
+					"Koffiebonen",
+					"Op de schil van vruchten",
+					"Snacks",
+					"Snoep"
+				]
+			}
+		},
+		{
+			"enumber": "E905",
+			"id": "360c1d72-d0b5-4cbf-a33d-960d85edd1aa",
+			"data": {
+				"text": "Glansmiddel. Wordt kunstmatig gemaakt uit aardolie. De stof wordt gebruikt om producten een glanzend laagje te geven. Het wordt ook gebruikt als basis voor kauwgom. Als je er veel van eet kan het laxerend werken.",
+				"applications": ["Buitenkant van kauwgom", "Buitenkant van snoep", "Op de schil van vruchten"]
+			}
+		},
+		{
+			"enumber": "E907",
+			"id": "c12243d0-f55e-4fc1-a399-bfc9c00b0aa2",
+			"data": {
+				"text": "Glansmiddel. Het wordt kunstmatig gemaakt uit aardolie. De stof wordt gebruikt om producten een glanzend laagje te geven.",
+				"applications": ["Gedroogde vruchten", "Kauwgom", "Suikerwerk"]
+			}
+		},
+		{
+			"enumber": "E914",
+			"id": "9b17bc16-b8a8-43dc-8fa7-3b30a910ce93",
+			"data": {
+				"text": "Glansmiddel. Wordt kunstmatig gemaakt door stoffen te bewerken. De stof wordt gebruikt om vruchten een  glanzend laagje te geven en te beschermen tegen uitdroging.",
+				"applications": ["Op de schil van vruchten"]
+			}
+		},
+		{
+			"enumber": "E920",
+			"id": "b26768d7-8866-4709-aaee-355bde2f7b85",
+			"data": {
+				"text": "Meelverbeteraar en smaakversterker. Komt van nature voor in de eiwitten in je lichaam (als aminozuur) maar  ook in dierlijke producten zoals vlees en wordt daar ook uit gewonnen. Het wordt gebruikt om de bakeigenschappen van meel te verbeteren en het verstevigt de structuur van brood. De stof wordt soms gewonnen uit haren van dieren, waardoor het in sommige gevallen niet geschikt is voor veganisten en sommige religies.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Koekjes voor zuigelingen en peuters",
+					"Meel",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E927b",
+			"id": "0f1bcedb-1edf-45ed-af4d-b50f3e540344",
+			"data": {
+				"text": "Stabilisator. Komt van nature voor in ons lichaam als ureum, een afvalstof die ons lichaam uitscheidt. Carbamide wordt kunstmatig gemaakt door stoffen te bewerken. Het wordt alleen gebruikt in suikervrije kauwgom en zorgt ervoor dat na het eten zuren in je mond geneutraliseerd worden wat tot minder tandbederf kan leiden.",
+				"applications": ["Suikervrije kauwgom"]
+			}
+		},
+		{
+			"enumber": "E938",
+			"id": "00ea4eff-3d86-4c26-8650-869d59656fc0",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt vooral gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E939",
+			"id": "80ed5462-5b63-4601-8175-68bca3913824",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt vooral gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt. Het kan ook gebruikt worden in biologische producten. ",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E941",
+			"id": "df8d9f89-0260-40b4-bbd5-de83fc32fa5f",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt vooral gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt. Het kan ook gebruikt worden in biologische producten. ",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E942",
+			"id": "d04ee900-2d2b-4bee-ae47-5bf1f2a271bb",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt vooral gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E943a",
+			"id": "da399584-2349-49a2-8f5e-d25eee312ecb",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt gemaakt uit aardgas. Het wordt gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt.",
+				"applications": ["Bakspray"]
+			}
+		},
+		{
+			"enumber": "E943b",
+			"id": "db1622e1-d315-4bbe-b19f-9571725fb7db",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt gemaakt uit aardgas. Het wordt gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt.",
+				"applications": ["Bakspray"]
+			}
+		},
+		{
+			"enumber": "E944",
+			"id": "281c100f-f541-46c1-958e-462784994996",
+			"data": {
+				"text": "Drijfgas. Komt van nature voor. Het wordt gemaakt uit aardgas. Het wordt gebruikt in spuitbussen om druk te vormen, zodat het product eruit komt als je op de knop drukt.",
+				"applications": ["Bakspray"]
+			}
+		},
+		{
+			"enumber": "E948",
+			"id": "0695cec0-48b3-4e66-8cde-56596c87f7dd",
+			"data": {
+				"text": "Verpakkingsgas. Het is een gas dat in de natuur voorkomt. Wordt in verpakkingen van uiteenlopende  producten gebruikt om te zorgen dat producten goed blijven. Het kan ook gebruikt worden in biologische producten.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E949",
+			"id": "9da8f3cd-0d7e-4d2d-81a7-3ec50873b05c",
+			"data": {
+				"text": "Verpakkingsgas. Komt van nature voor. Wordt bij uiteenlopende producten gebruikt om te zorgen dat producten goed blijven.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E950",
+			"id": "7394c5c6-1056-4a55-bea9-9b2ee8f54d44",
+			"data": {
+				"text": "Zoetstof. Wordt kunstmatig gemaakt door stoffen te bewerken. Het wordt gebruikt om producten zoeter te maken. Het is 100-200 keer zoeter dan suiker, maar bevat geen calorieën.",
+				"applications": [
+					"Alcoholische dranken",
+					"Groenten en fruit in blik of glas",
+					"Jam",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zoetjes"
+				]
+			}
+		},
+		{
+			"enumber": "E951",
+			"id": "963c50ba-e46e-4246-9e59-d162736c97c4",
+			"data": {
+				"text": "Zoetstof. Wordt kunstmatig gemaakt in een fabriek door stoffen te bewerken. Het wordt gebruikt om producten zoeter te maken. Het is 200 keer zoeter dan suiker maar bevat nauwelijks calorieën. Aspartaam bevat fenylalanine en is dus niet geschikt voor mensen met de erfelijke aangeboren stofwisselingsziekte phenylketonuria (PKU). Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Chocolade",
+					"Frisdranken",
+					"IJs",
+					"Ontbijtgranen",
+					"Soepen",
+					"Vruchtendranken",
+					"Zoetzure vis in blik of glas",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E952",
+			"id": "f905f1ee-4ab0-4a48-b9db-32d551435120",
+			"data": {
+				"text": "Zoetstoffen. Worden kunstmatig gemaakt in een fabriek door stoffen te bewerken. Het wordt gebruikt om producten zoeter te maken. Het is 30 keer zoeter dan suiker, maar bevat geen calorieën.",
+				"applications": [
+					"Alcoholische dranken",
+					"Chocoladepasta",
+					"Frisdranken",
+					"Fruit in blik of glas",
+					"Jam",
+					"Koek en gebak",
+					"Vruchtendranken",
+					"Zoetjes"
+				]
+			}
+		},
+		{
+			"enumber": "E953",
+			"id": "668c305d-57b9-4812-86b2-05ce3ebad384",
+			"data": {
+				"text": "Zoetstof en draagstof. Wordt kunstmatig gemaakt door enzymen toe te voegen aan suiker. Het wordt gebruikt om producten zoeter te maken of om andere stoffen op te lossen. Het is de helft tot net zo zoet als suiker en bevat ongeveer de helft van de calorieën. Als je er veel van eet kan het laxerend werken. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". ",
+				"applications": [
+					"Chocolade",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E954",
+			"id": "db7b7cb9-e3b2-4f6b-b079-ebe9e15c4d51",
+			"data": {
+				"text": "Zoetstof. Wordt kunstmatig gemaakt in een fabriek door stoffen te bewerken. Het wordt gebruikt om producten zoeter te maken. Het is 300 tot 500 keer zoeter dan suiker, maar bevat geen  calorieën. Er zijn enkele gevallen bekend waarbij een overgevoeligheidsreactie optrad na het eten van deze stof.",
+				"applications": [
+					"Boterhampasta",
+					"Desserts",
+					"IJs",
+					"Noten",
+					"Snacks",
+					"Vruchtendranken",
+					"Zoetjes",
+					"Zoetzure vis in blik of glas"
+				]
+			}
+		},
+		{
+			"enumber": "E955",
+			"id": "f4214d3d-f950-4f21-b6c3-0d12b7c621d7",
+			"data": {
+				"text": "Zoetstof. Wordt kunstmatig gemaakt door suiker te bewerken met andere stoffen. Het wordt gebruikt om producten zoeter te maken. Het is 500 tot 600 keer zoeter dan suiker, maar bevat geen calorieën.",
+				"applications": [
+					"Alcoholische dranken",
+					"Frisdranken",
+					"Groenten en fruit in blik of glas",
+					"Jam",
+					"Sauzen",
+					"Snoep",
+					"Soepen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E957",
+			"id": "2f291ff7-40d1-4510-a712-c8ab750a9d8f",
+			"data": {
+				"text": "Zoetstof en smaakversterker. Komt van nature voor in de zaden van de tropische boom Thaumatococcus danielliien wordt daar ook uit gewonnen. Het wordt gebruikt om producten zoeter te maken en om de smaak van producten te versterken. Het is 2000 tot 3000 keer zoeter dan suiker, maar levert nauwelijks calorieën.",
+				"applications": [
+					"Chocolade",
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E959",
+			"id": "d553bb35-2b9c-4370-bb94-7efdb93e66b0",
+			"data": {
+				"text": "Zoetstof en smaakversterker. Wordt gewonnen uit de schil van de bittere sinaasappel (Citrus auranticum) en wordt daarna met stoffen bewerkt. Het wordt gebruikt om producten zoeter te maken en om de smaak van producten te versterken. Het is 250 tot 1800 keer zoeter dan suiker, maar levert nauwelijks calorieën.",
+				"applications": [
+					"Alcoholische dranken",
+					"Boterhampasta",
+					"Koek en gebak",
+					"Ontbijtgranen",
+					"Soepen",
+					"Vetten",
+					"Vlees",
+					"Vruchtendranken"
+				]
+			}
+		},
+		{
+			"enumber": "E960",
+			"id": "5394e089-7cbc-431d-8646-893d5bbb2af1",
+			"data": {
+				"text": "Zoetstof. Het komt van nature voor in de plant Stevia rebaudiana Bertonien wordt daar ook uit gewonnen. Het wordt gebruikt om producten zoeter te maken. Het is 200 tot 300 keer zoeter dan suiker, maar bevat geen calorieën.",
+				"applications": [
+					"Chocolade",
+					"Jam",
+					"Kauwgom",
+					"Noten",
+					"Sauzen",
+					"Voedingssupplementen",
+					"Zoetzure groente en fruit in blik of glas",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E961",
+			"id": "28e7d1e6-159f-438a-ab85-27231f8b0888",
+			"data": {
+				"text": "Zoetstof en smaakversterker. Wordt kunstmatig gemaakt door aspartaam (E 951) te bewerken met andere stoffen. Het wordt gebruikt om producten zoeter te maken en de smaak van  producten te versterken. Het is 7000 tot 13000 keer zoeter dan suiker, maar levert geen of nauwelijks calorieën.",
+				"applications": [
+					"Frisdranken",
+					"Groente en fruit in blik of glas",
+					"IJs",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Soepen",
+					"Zoetzure vis in blik of glas"
+				]
+			}
+		},
+		{
+			"enumber": "E962",
+			"id": "ed2a5f7f-ee5a-4370-8d2b-6f1d6d42a4d2",
+			"data": {
+				"text": "Zoetstof. Is een mengsel van acesulfaam (E 950) en aspartaam (E 951) die kunstmatig gemaakt worden. Het wordt gebruikt om producten zoeter te maken. Het levert geen of nauwelijks calorieën. Bevat aspartaam en is daarmee een bron van fenylalanine. Is dus niet geschikt voor mensen met de erfelijke aangeboren stofwisselingsziekte phenylketonuria (PKU).",
+				"applications": [
+					"Boterhampasta",
+					"Desserts",
+					"Jam",
+					"Koek en gebak",
+					"Ontbijtgranen",
+					"Vruchtendranken",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E964",
+			"id": "207501f3-6088-4151-98f2-f45ac0aa3219",
+			"data": {
+				"text": "Zoetstof. Wordt kunstmatig gemaakt door het bewerken van verschillende stoffen, waaronder maltitol (E 965) en sorbitol (E 420). Het wordt gebruikt om producten zoeter te maken. Het is half tot even zoet als suiker, maar bevat minder dan de helft van de calorieën. Het wordt ook gebruikt als vulstof om producten zoals kauwgom volume te geven, als draagstof om stoffen op te lossen en als bevochtigingsmiddel. Als je er veel van eet, kan het laxerend werken. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". ",
+				"applications": ["Chocolade", "Desserts", "IJs", "Jam", "Kauwgom", "Koek en gebak", "Ontbijtgranen", "Snoep"]
+			}
+		},
+		{
+			"enumber": "E965",
+			"id": "35c7f16d-aa95-46fd-9104-175108dae9b1",
+			"data": {
+				"text": "Zoetstof en draagstof. Wordt kunstmatig gemaakt met suikers die worden verkregen uit maiszetmeel. Het wordt gebruikt om producten zoeter te maken of om andere stoffen op te lossen. Het is ongeveer de helft tot net zo zoet als suiker, en levert ongeveer de helft van de calorieën. Als je er veel van eet of er overgevoelig voor bent, kan het laxerend werken en kunnen krampen, winderigheid of een opgeblazen gevoel optreden. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt. ",
+				"applications": [
+					"Chocolade",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E966",
+			"id": "dba94b4d-13b1-470f-bd50-276b3683b943",
+			"data": {
+				"text": "Zoetstof en draagstof. Wordt kunstmatig gemaakt met suikers die uit wei van melk worden verkregen. Het wordt gebruikt om producten zoeter te maken of om andere stoffen op te lossen. Het is ongeveer een derde zo zoet als suiker en levert ongeveer de helft van de calorieën. Als je er veel van eet of er overgevoelig voor bent, kan het laxerend werken en kunnen krampen, winderigheid of een opgeblazen gevoel optreden. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". Omdat de stof gemaakt wordt uit melk is het niet geschikt voor veganisten..",
+				"applications": [
+					"Chocolade",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E967",
+			"id": "9cbda9ae-67ca-4ae1-ad27-bf577b1a24aa",
+			"data": {
+				"text": "Zoetstof en draagstof. Komt van nature voor in veel planten en bomen. Het wordt gewonnen uit houtvezels. Het wordt gebruikt om producten zoeter te maken of om andere stoffen op te lossen. Het is ongeveer net zo zoet als suiker en levert ongeveer de helft van de calorieën. Als je er veel van eet of er overgevoelig voor bent, kan het laxerend werken en kunnen krampen, winderigheid of een opgeblazen gevoel optreden. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". Bij de productie van deze stof kunnen genetisch gemodificeerde organismen worden gebruikt.",
+				"applications": [
+					"Chocolade",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Sauzen",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E968",
+			"id": "18384c89-7f99-4c3c-8f0e-365385b51370",
+			"data": {
+				"text": "Zoetstof, smaakversterker, verstevigingsmiddel, stabilisator en draagstof. Komt van nature voor in onder andere peren, druiven, paddenstoelen, wijn en kaas. Het wordt gemaakt uit tarwe- of maiszetmeel met behulp van schimmels. Het wordt gebruikt om producten zoeter te maken. Het is half tot even zoet als suiker, maar levert geen calorieën. Verder kan het gebruikt worden om producten te verstevigen, in een bepaalde toestand te houden, om andere stoffen op te lossen en om de smaak van producten te versterken. Als je er veel van eet of er overgevoelig voor bent, kan het laxerend werken en kunnen krampen, winderigheid of een opgeblazen gevoel optreden. <zoekterm> valt onder de polyolen. Op het etiket van voedingsmiddelen die meer dan 10% toegevoegde polyolen bevatten staat de volgende waarschuwing: \"overmatig gebruik kan een laxerend effect hebben\". ",
+				"applications": [
+					"Chocolade",
+					"Frisdranken",
+					"IJs",
+					"Kauwgom",
+					"Koek en gebak",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E969",
+			"id": "b6367c7d-140d-4bc5-90f3-c209f58ae7d3",
+			"data": {
+				"text": "Zoetstof. Het wordt kunstmatig gemaakt en het lijkt op aspartaam (E 951). Het wordt gebruikt om producten zoeter te maken. Het is 37000 keer zoeter dan suiker maar levert geen of nauwelijks calorieën.",
+				"applications": [
+					"Boterhampasta",
+					"Desserts",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snoep",
+					"Soepen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E999",
+			"id": "4faf89b4-1e5a-4950-b91c-e747620bfb6d",
+			"data": {
+				"text": "Schuimmiddel. Komt van nature voor in bomen van de familie Rosaceae (Quillaia saponaria Molina of andere quillajasoorten) en wordt daar ook uit gewonnen. Het wordt gebruikt voor de vorming van schuim in dranken.",
+				"applications": ["Cider en perencider", "Frisdranken"]
+			}
+		},
+		{
+			"enumber": "E1200",
+			"id": "cf5520d1-e7ef-49df-ba77-3f7437fa2c09",
+			"data": {
+				"text": "Verdikkingsmiddel en vulstof. Wordt gemaakt met glucose (druivensuiker), citroenzuur (E 330), fosforzuur (E 338) en sorbitol (E 420). Het wordt gebruikt om producten steviger te maken en volume te geven. Daarnaast voorkomt het ook uitdrogen en beschermt het tegen vriesschade bij invriezen. Als je er veel van eet, kan het laxerend werken.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Snoep",
+					"Voedingssupplementen",
+					"Zoetjes",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1201",
+			"id": "2519e11d-b345-418b-9491-292d22e222ad",
+			"data": {
+				"text": "Vulstof en stabilisator. Wordt kunstmatig gemaakt, door stoffen te bewerken. Het wordt gebruikt om producten volume te geven en in een bepaalde toestand te houden. Daarnaast wordt het gebruikt om andere stoffen op te lossen.",
+				"applications": ["Voedingssupplementen", "Zoetjes"]
+			}
+		},
+		{
+			"enumber": "E1202",
+			"id": "9bb9afad-a8e6-4732-8e69-f1cc0ce83dd8",
+			"data": {
+				"text": "Stabilisator en draagstof. Wordt kunstmatig gemaakt, door stoffen te bewerken. Het wordt gebruikt om producten in een bepaalde toestand te houden en om andere stoffen op te lossen.",
+				"applications": ["Voedingssupplementen", "Zoetjes"]
+			}
+		},
+		{
+			"enumber": "E1203",
+			"id": "a132095e-58f4-491e-8efc-4467ef952667",
+			"data": {
+				"text": "Omhulsel van voedingssupplementen. Het is een kunsthars en wordt kunstmatig gemaakt door stoffen te bewerken.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1204",
+			"id": "6cc623b5-0618-4007-8711-c4e619419d9d",
+			"data": {
+				"text": "Omhulsel dat wordt gebruikt bij kleine pepermuntjes en voedingssupplementen. Het wordt gemaakt uit zetmeel met behulp van een schimmel.",
+				"applications": ["Kleine pepermuntjes", "Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1205",
+			"id": "bd061e11-5132-4b6e-8932-8d90bc4bb6ee",
+			"data": {
+				"text": "Glansmiddel en omhulsel van voedingssupplementen. Wordt kunstmatig gemaakt door stoffen te bewerken.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1206",
+			"id": "274b97e5-b123-41fc-bc32-610d0a76943c",
+			"data": {
+				"text": "Glansmiddel in voedingssupplementen. Wordt kunstmatig gemaakt door stoffen te bewerken. Het wordt ook gebruikt om ervoor te zorgen dat de stoffen uit de voedingssupplementen vertraagd worden afgegeven.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1207",
+			"id": "eaf4913a-0a75-41ec-b479-5daaaf9a08c6",
+			"data": {
+				"text": "Glansmiddel in voedingssupplementen. Wordt kunstmatig gemaakt door stoffen te bewerken. Het wordt gebruikt om de maag te beschermen tegen irriterende bestanddelen uit voedingssupplementen. Ook wordt het gebruikt om bestanddelen uit de voedingssupplementen te beschermen voor maagzuur.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1208",
+			"id": "23b91e26-dbe3-4a78-8242-ae64b1a8181a",
+			"data": {
+				"text": "Glansmiddel in voedingssupplementen. Wordt kunstmatig gemaakt, door stoffen te bewerken. Het wordt gebruikt om het omhulsel van voedingssupplementen te verbeteren.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1209",
+			"id": "6178f1d1-345f-4218-84bf-077f1ebc8791",
+			"data": {
+				"text": "Glansmiddel in voedingssupplementen. Wordt kunstmatig gemaakt, door stoffen te bewerken. Het wordt gebruikt in omhulsels van voedingssupplementen die direct in water oplossen. Het maakt onder andere het gebruik van de supplementen makkelijker.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1404",
+			"id": "233b433e-b3d5-4773-befb-e5253a1252cd",
+			"data": {
+				"text": "Verdikkingsmiddel en stabilisator. Wordt kunstmatig gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken en in een bepaalde toestand te houden. Als je er veel van eet kan het laxerend werken.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1410",
+			"id": "04b0353f-bd0a-4bbe-8094-b01c2256e050",
+			"data": {
+				"text": "Verdikkingsmiddel en stabilisator. Wordt kunstmatig gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken en in een bepaalde toestand te houden.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters zoals papjes en hapjes",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1412",
+			"id": "8bada189-9e7e-49a5-963f-bbc430b658cf",
+			"data": {
+				"text": "Verdikkingsmiddel en stabilisator. Wordt kunstmatig gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken en in een bepaalde toestand te houden.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1413",
+			"id": "8ca1849f-21d2-41b2-8502-255eddbc1032",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt kunstmatig gemaakt door maiszetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken en is bestand tegen bevriezen en weer ontdooien van producten waardoor de kwaliteit van het product beter behouden blijft.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1414",
+			"id": "d680d600-b905-4b77-930e-a8aafebe38eb",
+			"data": {
+				"text": "Verdikkingsmiddel, stabilisator en emulgator. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken, in een bepaalde toestand te houden en om water en vet te mengen.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1420",
+			"id": "167d36db-d478-45b8-8a3b-ff1caed473d5",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken. In sommige gevallen kan diarree optreden.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1422",
+			"id": "960ef9c6-6ca2-4000-8e9d-d86151e0b336",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1440",
+			"id": "bc4c3cd6-1382-4200-b83c-f5ecbcf82b32",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken. In sommige gevallen kan het de spijsvertering remmen.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Soepen",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1442",
+			"id": "b5a9f5d6-d0d3-467c-b7cc-a30a6573e4c2",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken en is bestand tegen bevriezen en weer ontdooien van producten, waardoor de kwaliteit van het product behouden blijft. In sommige gevallen kan het de spijsvertering remmen.",
+				"applications": [
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Sauzen",
+					"Snacks",
+					"Vlees",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1450",
+			"id": "a94351f1-38a1-4f45-8e37-3b914855a11e",
+			"data": {
+				"text": "Verdikkingsmiddel. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Snacks",
+					"Voedingsmiddelen voor peuters",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1451",
+			"id": "5612b30f-73e5-4f02-b035-39f9028bd080",
+			"data": {
+				"text": "Verdikkingsmiddel en stabilisator. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om producten steviger te maken en in een bepaalde toestand te houden.",
+				"applications": [
+					"Babyvoeding",
+					"Brood",
+					"Frisdranken",
+					"Koek en gebak",
+					"Noedels",
+					"Snacks",
+					"Voedingssupplementen",
+					"Zuivelproducten"
+				]
+			}
+		},
+		{
+			"enumber": "E1452",
+			"id": "bb437635-2315-42bf-a838-0906d32968da",
+			"data": {
+				"text": "Antiklontermiddel. Wordt gemaakt door zetmeel te bewerken met andere stoffen. Het wordt gebruikt om klontering in voedingssupplementen tegen te gaan.",
+				"applications": ["Voedingssupplementen"]
+			}
+		},
+		{
+			"enumber": "E1505",
+			"id": "4dcb6ab9-1122-464d-a6a6-513a400237db",
+			"data": {
+				"text": "Draagstof. Wordt gemaakt uit citroenzuur (E 350). Het wordt gebruikt om aroma’s in producten op te lossen.",
+				"applications": [
+					"Producten van eieren",
+					"Voedingssupplementen",
+					"zoals schuim (gedroogd eiwit) en gekookte eieren"
+				]
+			}
+		},
+		{
+			"enumber": "E1517",
+			"id": "cc90690a-5a5c-41a4-afe4-96e744e46076",
+			"data": {
+				"text": "Draagstof. Wordt gemaakt uit azijnzuur (E 260) en glycerol (E 422). Het wordt gebruikt om aroma’s in producten op te lossen.",
+				"applications": ["Wordt op zichzelf niet in voedingsmiddelen gebruikt"]
+			}
+		},
+		{
+			"enumber": "E1518",
+			"id": "f0a6487c-a11d-4e24-a614-7b422f963187",
+			"data": {
+				"text": "Draagstof. Wordt gemaakt uit azijnzuur (E 260) en glycerol (E 422). Het wordt gebruikt om aroma’s in producten op te lossen. Daarnaast werkt het ook tegen schimmels. Glycerol komt van nature voor als bestanddeel van dierlijke en plantaardige vetten en oliën en komt ook in ons lichaam voor. Het wordt gewonnen uit vetten en oliën, kunstmatig gemaakt door stoffen te bewerken of met behulp van een bacterie uit suikers. Glycerol kan gemaakt zijn door bewerking van dierlijke vetten. Hierdoor is <zoekterm> in sommige gevallen niet geschikt voor veganisten, vegetariërs en sommige religies. ",
+				"applications": ["Kauwgom"]
+			}
+		},
+		{
+			"enumber": "E1519",
+			"id": "b24030fc-0ece-4a2d-9733-41e3a4bf8e29",
+			"data": {
+				"text": "Draagstof. Wordt gebruikt om aroma’s in alcoholische dranken, suikerwerk, chocolade, koek en gebak op te lossen.",
+				"applications": ["Wordt op zichzelf niet in voedingsmiddelen gebruikt"]
+			}
+		},
+		{
+			"enumber": "E1520",
+			"id": "aa5e26ca-69f3-4b8a-80a4-2b58faa24cdf",
+			"data": {
+				"text": "Draagstof. Wordt kunstmatig gemaakt, door stoffen te bewerken. Het wordt gebruikt om andere stoffen op te lossen. Het zorgt er ook voor dat producten langdurig smeerbaar blijven.",
+				"applications": ["Wordt op zichzelf niet in voedingsmiddelen gebruikt"]
+			}
+		},
+		{
+			"enumber": "E1521",
+			"id": "fba4d8f5-298f-459e-9d9b-92995dbea93c",
+			"data": {
+				"text": "Glansmiddel. Wordt kunstmatig gemaakt, door stoffen te bewerken. Het wordt gebruikt als omhulsel van voedingssupplementen.",
+				"applications": ["Voedingssupplementen", "Zoetjes"]
+			}
+		}
+	]
+}
