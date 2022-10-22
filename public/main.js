@@ -63,6 +63,7 @@ async function getEnumberDescription(enumber) {
       },
       select: function (event, ui) {
         checkEnumber(ui.item.value)
+        $("#input").blur()
       }
     });
   });
